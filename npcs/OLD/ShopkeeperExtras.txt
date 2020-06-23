@@ -1,0 +1,76 @@
+{
+      "name": "pixelmon:bug_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:dark_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:dragon_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:electric_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:fairy_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:fighting_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:fire_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:flying_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ghost_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:grass_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ground_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ice_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:normal_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:poison_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:psychic_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:rock_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:steel_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:water_gem",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:fairy_gem",
+      "variation": false
+    },

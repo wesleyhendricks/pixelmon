@@ -1,0 +1,79 @@
+{
+  "data": {
+    "type": "Mahogany"
+  },
+  "textures": [
+    {
+      "name": "breedergreen_m.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Cody"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Mahogany Breeding Shop! Go ahead. Take a look at our products.",
+      "goodbye": "Good luck with your breeding!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:ranch",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:ranch_upgrade",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:glowstone_dust",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:ice",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:packed_ice",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:dispenser",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:red_mushroom_block",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:soul_sand",
+      "variation": false
+    },
+	{
+      "name": "minecraft:netherrack",
+      "variation": false
+    },
+	{
+      "name": "minecraft:end_stone",
+      "variation": false
+    },
+	{
+      "name": "minecraft:sea_lantern",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:cake",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:stonebrick:0",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:stained_hardened_clay:12",
+	  "variation": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Claydol",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Claydol",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

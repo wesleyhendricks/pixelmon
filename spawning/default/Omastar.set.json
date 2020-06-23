@@ -1,0 +1,29 @@
+{
+  "id": "Omastar",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Omastar",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

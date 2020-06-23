@@ -1,0 +1,33 @@
+{
+  "id": "Venomoth",
+  "spawnInfos": [
+    {
+      "minLevel": 31,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Venomoth",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_swampland",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

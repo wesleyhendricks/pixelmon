@@ -1,0 +1,35 @@
+{
+  "id": "Empoleon",
+  "spawnInfos": [
+    {
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 3,
+      "spec": {
+        "name": "Empoleon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_river",
+          "minecraft:ice_flats",
+          "minecraft:ice_mountains",
+          "minecraft:cold_beach",
+          "minecraft:taiga_cold",
+          "minecraft:taiga_cold_hills",
+          "minecraft:mutated_ice_flats",
+          "minecraft:mutated_taiga_cold"
+        ]
+      }
+    }
+  ]
+}

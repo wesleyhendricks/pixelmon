@@ -1,0 +1,55 @@
+{
+  "id": "Lycanroc",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Lycanroc",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:taiga",
+          "minecraft:taiga_hills",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga"
+        ]
+      }
+    },
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Lycanroc",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:taiga",
+          "minecraft:taiga_hills",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga"
+        ]
+      }
+    }
+  ]
+}

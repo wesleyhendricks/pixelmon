@@ -1,0 +1,32 @@
+{
+  "id": "Vaporeon",
+  "spawnInfos": [
+    {
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Vaporeon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:river",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_river",
+          "minecraft:beaches",
+          "minecraft:stone_beach",
+          "minecraft:cold_beach"
+        ]
+      }
+    }
+  ]
+}

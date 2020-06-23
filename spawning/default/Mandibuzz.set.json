@@ -1,0 +1,34 @@
+{
+  "id": "Mandibuzz",
+  "spawnInfos": [
+    {
+      "minLevel": 54,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Mandibuzz",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert",
+          "minecraft:desert",
+          "minecraft:mutated_desert",
+          "minecraft:desert_hills",
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

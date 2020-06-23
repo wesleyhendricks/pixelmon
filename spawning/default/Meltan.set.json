@@ -1,0 +1,36 @@
+{
+  "id": "Meltan",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 28,
+      "spec": {
+        "name": "Meltan",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savannas",
+          "minecraft:flowery",
+          "minecraft:swamps",
+          "minecraft:taigas",
+          "minecraft:jungles",
+          "minecraft:forests",
+          "minecraft:beaches",
+          "minecraft:freezing",
+          "minecraft:redwoods",
+          "minecraft:plains",
+          "minecraft:hills"
+        ]
+      }
+    }
+  ]
+}

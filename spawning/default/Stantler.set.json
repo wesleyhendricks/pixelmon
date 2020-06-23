@@ -1,0 +1,35 @@
+{
+  "id": "Stantler",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "rarity": 90,
+      "spec": {
+        "name": "Stantler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:forest_hills",
+          "minecraft:taiga_hills",
+          "minecraft:birch_forest_hills",
+          "minecraft:roofed_forest",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_roofed_forest",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

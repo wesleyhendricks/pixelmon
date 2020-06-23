@@ -1,0 +1,28 @@
+{
+  "id": "Furret",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Furret",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      }
+    }
+  ]
+}

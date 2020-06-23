@@ -1,0 +1,27 @@
+{
+  "id": "Crabominable",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Crabominable",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:cold_beach",
+          "minecraft:ice_mountains"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Pheromosa",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "interval": "legendary",
+      "spec": {
+        "name": "Pheromosa",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

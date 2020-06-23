@@ -1,0 +1,26 @@
+{
+  "id": "Dragalge",
+  "spawnInfos": [
+    {
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Dragalge",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean"
+        ]
+      }
+    }
+  ]
+}

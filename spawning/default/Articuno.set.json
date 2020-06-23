@@ -1,0 +1,26 @@
+{
+  "id": "Articuno",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Articuno",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_ice_flats"
+        ]
+      }
+    }
+  ]
+}

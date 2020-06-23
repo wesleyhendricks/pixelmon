@@ -1,0 +1,26 @@
+{
+  "id": "Seviper",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "rarity": 125,
+      "spec": {
+        "name": "Seviper",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      }
+    }
+  ]
+}

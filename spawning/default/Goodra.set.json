@@ -1,0 +1,26 @@
+{
+  "id": "Goodra",
+  "spawnInfos": [
+    {
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Goodra",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland"
+        ]
+      }
+    }
+  ]
+}

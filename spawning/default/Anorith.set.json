@@ -1,0 +1,30 @@
+{
+  "id": "Anorith",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Anorith",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

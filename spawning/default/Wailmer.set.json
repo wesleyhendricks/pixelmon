@@ -1,0 +1,26 @@
+{
+  "id": "Wailmer",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "rarity": 100,
+      "spec": {
+        "name": "Wailmer",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

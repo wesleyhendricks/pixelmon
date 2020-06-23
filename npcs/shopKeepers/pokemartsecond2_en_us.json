@@ -1,0 +1,263 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Finnegan"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:ginema_berry",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:jaboca_berry",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:rowap_berry",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:enigma_berry",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:micle_berry",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:pomeg_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:kelpsy_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:qualot_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:hondew_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:grepa_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tamato_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:oran_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:rawst_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:leppa_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:cheri_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:chesto_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:pecha_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:aspear_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:persim_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:lum_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:sitrus_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:berry_juice",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:pumkin_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:drash_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:eggant_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:yago_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:touga_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:apicot_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:liechi_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:ganlon_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:salac_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:petaya_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:lansat_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:starf_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:custap_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:aguav_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:figy_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:iapapa_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:mago_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:wiki_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:occa_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:passho_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:wacan_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:rindo_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:yache_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:chople_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:kebia_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:shuca_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:coba_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:payapa_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tanga_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:charti_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:kasib_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:haban_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:colbur_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:babiri_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:chilan_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:roseli_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:kee_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:maranga_berry",
+	  "variation": false
+    }
+  ]
+}

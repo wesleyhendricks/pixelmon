@@ -1,0 +1,35 @@
+{
+  "id": "Seaking",
+  "spawnInfos": [
+    {
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Seaking",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:river",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_river",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach",
+          "minecraft:cold_beach"
+        ]
+      }
+    }
+  ]
+}

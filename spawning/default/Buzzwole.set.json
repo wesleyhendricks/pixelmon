@@ -1,0 +1,27 @@
+{
+  "id": "Buzzwole",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "interval": "legendary",
+      "spec": {
+        "name": "Buzzwole",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna"
+        ]
+      }
+    }
+  ]
+}

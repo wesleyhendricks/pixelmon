@@ -1,0 +1,29 @@
+{
+  "id": "Mantyke",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Mantyke",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

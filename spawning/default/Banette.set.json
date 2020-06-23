@@ -1,0 +1,26 @@
+{
+  "id": "Banette",
+  "spawnInfos": [
+    {
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Banette",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      }
+    }
+  ]
+}

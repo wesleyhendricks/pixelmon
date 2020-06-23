@@ -1,0 +1,33 @@
+{
+  "id": "Golduck",
+  "spawnInfos": [
+    {
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 90,
+      "spec": {
+        "name": "Golduck",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_swampland",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

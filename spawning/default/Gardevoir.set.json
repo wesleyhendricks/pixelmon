@@ -1,0 +1,30 @@
+{
+  "id": "Gardevoir",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "rarity": 10,
+      "spec": {
+        "name": "Gardevoir",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman2.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Charles"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
+      "goodbye": "See you next time."
+    },
+    {
+      "hello": "Hello, welcome to the Poké Mart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Poké Mart. Have a nice day."
+    },
+    {
+      "hello": "Hello there! Welcome to my Poké Mart. I have only the best Pokémon products for sale.",
+      "goodbye": "Thank you for shopping at my store."
+    },
+    {
+      "hello": "Welcome to my Poké Mart. Nice day for shopping, isn't it?",
+      "goodbye": "Come back soon, won't you?"
+    },
+    {
+      "hello": "Hello there, welcome to the Poké Mart! We have many specials today!",
+      "goodbye": "Come see us again, won't you?"
+    },
+    {
+      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
+      "goodbye": "Okay, see ya next time."
+    },
+    {
+      "hello": "How are you? Welcome to our Poké Mart! We've got some great gear for your Pokémon.",
+      "goodbye": "Ciao, my friend. Come back anytime."
+    },
+    {
+      "hello": "Hello, check out our Poké Mart! We have some useful Pokémon gear today.",
+      "goodbye": "Come back again soon, okay?"
+    },
+    {
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:poke_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:great_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:ultra_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:luxury_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:friend_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:heal_ball",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:dive_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:dusk_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:fast_ball",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:heavy_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:level_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:love_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:lure_ball",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:moon_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:nest_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:net_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:quick_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:repeat_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:sport_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:timer_ball",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:master_ball",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:smoke_ball",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:potion",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:super_potion",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hyper_potion",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:max_potion",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:full_restore",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:revive",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:max_revive",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ether",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:max_ether",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:elixir",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:max_elixir",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:antidote",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:paralyze_heal",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:awakening",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:burn_heal",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ice_heal",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:full_heal",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:pp_up",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:pp_max",
+      "variation": false
+    }
+  ]
+}

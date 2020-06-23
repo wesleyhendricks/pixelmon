@@ -1,0 +1,34 @@
+{
+  "id": "Braviary",
+  "spawnInfos": [
+    {
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Braviary",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:extreme_hills",
+          "minecraft:mutated_extreme_hills"
+        ]
+      }
+    }
+  ]
+}

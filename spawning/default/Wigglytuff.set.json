@@ -1,0 +1,30 @@
+{
+  "id": "Wigglytuff",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Wigglytuff",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

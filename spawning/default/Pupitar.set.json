@@ -1,0 +1,37 @@
+{
+  "id": "Pupitar",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "rarity": 60,
+      "spec": {
+        "name": "Pupitar",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

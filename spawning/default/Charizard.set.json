@@ -1,0 +1,28 @@
+{
+  "id": "Charizard",
+  "spawnInfos": [
+    {
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Charizard",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills"
+        ]
+      }
+    }
+  ]
+}

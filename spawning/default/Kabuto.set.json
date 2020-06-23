@@ -1,0 +1,30 @@
+{
+  "id": "Kabuto",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Kabuto",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach",
+          "minecraft:cold_beach"
+        ]
+      }
+    }
+  ]
+}

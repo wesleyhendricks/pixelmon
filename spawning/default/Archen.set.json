@@ -1,0 +1,30 @@
+{
+  "id": "Archen",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Archen",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Rayquaza",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 4,
+      "interval": "legendary",
+      "spec": {
+        "name": "Rayquaza",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:sunflower_plains",
+          "minecraft:mutated_plains",
+          "minecraft:extreme_hills"
+        ]
+      }
+    }
+  ]
+}

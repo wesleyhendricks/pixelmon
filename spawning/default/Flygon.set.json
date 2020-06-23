@@ -1,0 +1,28 @@
+{
+  "id": "Flygon",
+  "spawnInfos": [
+    {
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 10,
+      "spec": {
+        "name": "Flygon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

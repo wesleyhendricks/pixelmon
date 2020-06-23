@@ -1,0 +1,27 @@
+{
+  "id": "Cherubi",
+  "spawnInfos": [
+    {
+      "minLevel": 12,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Cherubi",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:forest_hills"
+        ]
+      }
+    }
+  ]
+}

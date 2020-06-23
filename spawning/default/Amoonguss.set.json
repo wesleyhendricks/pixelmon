@@ -1,0 +1,29 @@
+{
+  "id": "Amoonguss",
+  "spawnInfos": [
+    {
+      "minLevel": 39,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "rarity": 45,
+      "spec": {
+        "name": "Amoonguss",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mushroom_island",
+          "minecraft:mushroom_island_shore",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_roofed_forest"
+        ]
+      }
+    }
+  ]
+}

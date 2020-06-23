@@ -1,0 +1,27 @@
+{
+  "id": "Lotad",
+  "spawnInfos": [
+    {
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "rarity": 100,
+      "spec": {
+        "name": "Lotad",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

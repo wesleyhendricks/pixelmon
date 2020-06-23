@@ -1,0 +1,135 @@
+{
+  "data": {
+    "type": "Snowpoint"
+  },
+  "textures": [
+    {
+      "name": "blacksmith.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Castle Blacksmith"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "I am the Official Blacksmith of the Castle. You can find other blacksmith's in Snowpoint, but they don't have the high quality goods I provide!",
+      "goodbye": "Come back soon!"
+    }
+  ],
+  "items": [
+	{
+      "name": "minecraft:coal",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:flint",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:redstone",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:iron_ingot",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:gold_ingot",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:aluminium_ingot",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:emerald",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:diamond",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:quartz",
+	  "variation": false
+    },
+	{
+      "name": "minecraft:obsidian",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:water_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:fire_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:thunder_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:moon_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:leaf_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:sun_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:dawn_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:dusk_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:ice_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:shiny_stone",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:dubious_disc",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:up-grade",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:electirizer",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:magmarizer",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:protector",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:dragon_scale",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:oval_stone",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:reaper_cloth",
+      "variation": false
+    }
+  ]
+}

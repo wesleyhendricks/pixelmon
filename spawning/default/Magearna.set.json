@@ -1,0 +1,27 @@
+{
+  "id": "Magearna",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 6,
+      "interval": "legendary",
+      "spec": {
+        "name": "Magearna",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

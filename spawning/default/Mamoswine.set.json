@@ -1,0 +1,29 @@
+{
+  "id": "Mamoswine",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Mamoswine",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ice_flats",
+          "minecraft:ice_mountains",
+          "minecraft:mutated_ice_flats"
+        ]
+      }
+    }
+  ]
+}

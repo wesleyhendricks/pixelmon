@@ -1,0 +1,27 @@
+{
+  "id": "Cottonee",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "rarity": 150,
+      "spec": {
+        "name": "Cottonee",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

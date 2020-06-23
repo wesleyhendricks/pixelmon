@@ -1,0 +1,28 @@
+{
+  "id": "Golisopod",
+  "spawnInfos": [
+    {
+      "minLevel": 7,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Golisopod",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

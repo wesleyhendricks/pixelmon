@@ -1,0 +1,27 @@
+{
+  "id": "Eelektross",
+  "spawnInfos": [
+    {
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Eelektross",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

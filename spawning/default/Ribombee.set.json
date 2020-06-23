@@ -1,0 +1,26 @@
+{
+  "id": "Ribombee",
+  "spawnInfos": [
+    {
+      "minLevel": 22,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Ribombee",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Noivern",
+  "spawnInfos": [
+    {
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Noivern",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest_hills"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Frillish",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 120,
+      "spec": {
+        "name": "Frillish",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

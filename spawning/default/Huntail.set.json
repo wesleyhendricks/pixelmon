@@ -1,0 +1,27 @@
+{
+  "id": "Huntail",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Huntail",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

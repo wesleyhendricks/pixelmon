@@ -1,0 +1,29 @@
+{
+  "id": "Metapod",
+  "spawnInfos": [
+    {
+      "minLevel": 7,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "rarity": 100,
+      "spec": {
+        "name": "Metapod",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:forest_hills",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

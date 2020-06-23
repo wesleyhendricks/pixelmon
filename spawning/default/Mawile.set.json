@@ -1,0 +1,31 @@
+{
+  "id": "Mawile",
+  "spawnInfos": [
+    {
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Mawile",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

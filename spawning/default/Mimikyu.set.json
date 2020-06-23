@@ -1,0 +1,28 @@
+{
+  "id": "Mimikyu",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Mimikyu",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:stone_beach",
+          "minecraft:ice_flats",
+          "minecraft:frozen_river"
+        ]
+      }
+    }
+  ]
+}

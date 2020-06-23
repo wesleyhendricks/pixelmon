@@ -1,0 +1,30 @@
+{
+  "id": "Treecko",
+  "spawnInfos": [
+    {
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "rarity": 10,
+      "spec": {
+        "name": "Treecko",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

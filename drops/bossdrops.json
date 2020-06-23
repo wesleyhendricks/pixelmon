@@ -1,0 +1,414 @@
+{
+	"megadrops": [
+		"pixelmon:amulet_coin",
+		"pixelmon:bright_powder",
+		"pixelmon:destiny_knot",
+		"minecraft:dragon_breath",
+		"pixelmon:eviolite",
+		"pixelmon:exp_share",
+		"pixelmon:flame_orb",
+		"pixelmon:focus_band",
+		"pixelmon:light_clay",
+		"pixelmon:macho_brace",
+		"pixelmon:metronome",
+		"pixelmon:muscle_band",
+		"pixelmon:quick_claw",
+		"pixelmon:rare_candy",
+		"pixelmon:red_card",
+		"pixelmon:rocky_helmet",
+		"pixelmon:safety_goggles",
+		"pixelmon:scope_lens",
+		"pixelmon:shed_shell",
+		"pixelmon:shell_bell",
+		"pixelmon:smoke_ball",
+		"pixelmon:soothe_bell",
+		"minecraft:totem_of_undying",
+		"pixelmon:toxic_orb",
+		"pixelmon:weakness_policy",
+		"pixelmon:wide_lens",
+		"pixelmon:wise_glasses",
+		"minecraft:skull:1",
+		"pixelmon:zoom_lens",
+        "pixelmon:big_mushroom",
+        "pixelmon:big_pearl",
+        "pixelmon:nugget",
+		"pixelmon:m_candy",
+		"pixelmon:s_candy",
+        "pixelmon:star_piece"
+	],
+	"shinymegadrops": [
+		"pixelmon:ability_capsule",
+		"pixelmon:assault_vest",
+		"pixelmon:choice_band",
+		"pixelmon:choice_scarf",
+		"pixelmon:choice_specs",
+		"minecraft:elytra",
+		"pixelmon:exp_all",
+		"pixelmon:expert_belt",
+		"pixelmon:focus_sash",
+		"pixelmon:leftovers",
+		"pixelmon:life_orb",
+		"pixelmon:lucky_egg",
+		"pixelmon:master_ball",
+		"minecraft:nether_star",
+		"pixelmon:orb",
+		"pixelmon:power_anklet",
+		"pixelmon:power_band",
+		"pixelmon:power_belt",
+		"pixelmon:power_bracer",
+		"pixelmon:power_lens",
+		"pixelmon:power_weight",
+		"minecraft:shulker_shell",
+        "pixelmon:balm_mushroom",
+        "pixelmon:big_nugget",
+        "pixelmon:comet_shard",
+        "pixelmon:pearl_string",
+        "pixelmon:aloraichium_z",
+        "pixelmon:decidium_z",
+        "pixelmon:eevium_z",
+        "pixelmon:incinium_z",
+        "pixelmon:kommonium_z",
+        "pixelmon:lunalium_z",
+        "pixelmon:lycanium_Z",
+        "pixelmon:marshadium_z",
+        "pixelmon:mewnium_z",
+        "pixelmon:mimikium_z",
+        "pixelmon:pikanium_z",
+        "pixelmon:pikashunium_z",
+        "pixelmon:primarium_Z",
+        "pixelmon:snorlium_z",
+        "pixelmon:solganium_z",
+        "pixelmon:tapunium_z",
+		"pixelmon:griseous_orb",
+		"pixelmon:adamant_orb",
+		"pixelmon:lustrous_orb",
+		"pixelmon:sun_flute",
+		"pixelmon:xl_candy",
+		"pixelmon:l_candy",
+		"pixelmon:moon_flute"
+	],
+	"bosses": [{
+			"name": "Charizard",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 5,
+				"heightmax": 30,
+				"speed": 1.5,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Blastoise",
+			"spawnlocation": "water",
+			"biomes": [],
+			"swimming": {
+				"depthmin": 2,
+				"depthmax": 14,
+				"swimspeed": 2.5,
+				"decayrate": 0.9,
+				"refreshrate": 70
+			}
+		},
+		{
+			"name": "Venusaur",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Aggron",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Altaria",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 5,
+				"heightmax": 30,
+				"speed": 1.5,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Alakazam",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Ampharos",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Audino",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Beedrill",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Blaziken",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Gallade",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Garchomp",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Gengar",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Gyarados",
+			"spawnlocation": "water",
+			"biomes": [],
+			"swimming": {
+				"depthmin": 2,
+				"depthmax": 14,
+				"swimspeed": 2.5,
+				"decayrate": 0.9,
+				"refreshrate": 70
+			}
+		},
+		{
+			"name": "Heracross",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Houndoom",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Kangaskhan",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Lucario",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Manectric",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Mewtwo",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Pidgeot",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 5,
+				"heightmax": 30,
+				"speed": 1.5,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Pinsir",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Salamence",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 5,
+				"heightmax": 30,
+				"speed": 1.5,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Sceptile",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Scizor",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Sharpedo",
+			"spawnlocation": "water",
+			"biomes": [],
+			"swimming": {
+				"depthmin": 2,
+				"depthmax": 14,
+				"swimspeed": 2.5,
+				"decayrate": 0.9,
+				"refreshrate": 70
+			}
+		},
+		{
+			"name": "Swampert",
+			"spawnlocation": "water",
+			"biomes": [],
+			"swimming": {
+				"depthmin": 2,
+				"depthmax": 14,
+				"swimspeed": 2.5,
+				"decayrate": 0.9,
+				"refreshrate": 70
+			}
+		},
+		{
+			"name": "Tyranitar",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Aerodactyl",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 5,
+				"heightmax": 30,
+				"speed": 1.5,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Gardevoir",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Latios",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 7,
+				"heightmax": 24,
+				"speed": 1.75,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Latias",
+			"spawnlocation": "airpersistent",
+			"biomes": [],
+			"flying": {
+				"heightmin": 7,
+				"heightmax": 24,
+				"speed": 1.75,
+				"refreshratey": 100,
+				"refreshratexz": 200,
+				"refreshratespeed": 200,
+				"flaprate": 40
+			}
+		},
+		{
+			"name": "Mawile",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Absol",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Glalie",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Abomasnow",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Banette",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Camerupt",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Diancie",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Lopunny",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Medicham",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Sableye",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Slowbro",
+			"spawnlocation": "water",
+			"biomes": [],
+			"swimming": {
+				"depthmin": 1,
+				"depthmax": 8,
+				"swimspeed": 1.25,
+				"decayrate": 0.9,
+				"refreshrate": 70
+			}
+		},
+		{
+			"name": "Steelix",
+			"spawnlocation": "land",
+			"biomes": []
+		},
+		{
+			"name": "Metagross",
+			"spawnlocation": "land",
+			"biomes": []
+		}
+	]
+}

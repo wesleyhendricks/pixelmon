@@ -1,0 +1,27 @@
+{
+  "data": {
+    "type": "Snowpoint"
+  },
+  "textures": [
+    {
+      "name": "shopman2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Charles"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
+      "goodbye": "See you next time."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:poke_ball",
+	  "variation": false
+    }
+  ]
+}

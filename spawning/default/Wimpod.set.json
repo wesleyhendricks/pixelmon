@@ -1,0 +1,26 @@
+{
+  "id": "Wimpod",
+  "spawnInfos": [
+    {
+      "minLevel": 2,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Wimpod",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

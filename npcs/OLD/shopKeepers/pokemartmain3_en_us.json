@@ -1,0 +1,31 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Suki"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello, may I help you find your Pokémon equipment? We have some great bargains.",
+      "goodbye": "Thank you for your custom. We look forward to serving you again."
+    },
+    {
+      "hello": "Welcome to the Poké Mart. Is there anything special you're looking for?",
+      "goodbye": "Bye! Come and see us again soon!"
+    }
+  ],
+ "items": [
+	{
+      "name": "enderio:block_enderman_skull",
+      "variation": false
+    }
+  ]
+}

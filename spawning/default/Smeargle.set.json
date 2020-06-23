@@ -1,0 +1,31 @@
+{
+  "id": "Smeargle",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 45,
+      "spec": {
+        "name": "Smeargle",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

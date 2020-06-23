@@ -1,0 +1,33 @@
+{
+  "id": "Mienshao",
+  "spawnInfos": [
+    {
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 25,
+      "spec": {
+        "name": "Mienshao",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees",
+          "minecraft:taiga",
+          "minecraft:taiga_hills",
+          "minecraft:mutated_taiga"
+        ]
+      }
+    }
+  ]
+}

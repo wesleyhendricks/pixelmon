@@ -1,0 +1,30 @@
+{
+  "id": "Basculin",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Basculin",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:river",
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:mutated_jungle"
+        ]
+      }
+    }
+  ]
+}

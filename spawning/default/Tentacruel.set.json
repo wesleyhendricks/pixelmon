@@ -1,0 +1,31 @@
+{
+  "id": "Tentacruel",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 95,
+      "spec": {
+        "name": "Tentacruel",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Carracosta",
+  "spawnInfos": [
+    {
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Carracosta",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water",
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

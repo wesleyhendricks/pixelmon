@@ -1,0 +1,27 @@
+{
+  "id": "Eelektrik",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 45,
+      "spec": {
+        "name": "Eelektrik",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

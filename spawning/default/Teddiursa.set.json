@@ -1,0 +1,34 @@
+{
+  "id": "Teddiursa",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "rarity": 180,
+      "spec": {
+        "name": "Teddiursa",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:forest_hills",
+          "minecraft:taiga_hills",
+          "minecraft:birch_forest_hills",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_roofed_forest",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

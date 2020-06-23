@@ -1,0 +1,29 @@
+{
+  "id": "Nidorino",
+  "spawnInfos": [
+    {
+      "minLevel": 16,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "rarity": 125,
+      "spec": {
+        "name": "Nidorino",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}

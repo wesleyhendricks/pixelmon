@@ -1,0 +1,33 @@
+{
+  "id": "Gigalith",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Gigalith",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

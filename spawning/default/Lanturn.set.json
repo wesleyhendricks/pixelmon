@@ -1,0 +1,26 @@
+{
+  "id": "Lanturn",
+  "spawnInfos": [
+    {
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Lanturn",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

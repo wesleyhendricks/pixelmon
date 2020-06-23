@@ -1,0 +1,471 @@
+{
+  "towns": [
+    {
+      "id": "towncenter1",
+      "filename": "pokecenter1.schem",
+      "weighting": 20,
+      "depth": 2,
+      "maxnum": 1,
+      "npcs": [
+        {
+          "type": "NurseJoy",
+          "x": 9,
+          "y": 3,
+          "z": 7
+        }
+      ]
+    },
+    {
+      "id": "townmart1",
+      "filename": "pokemart1.snapshot",
+      "weighting": 20,
+      "maxnum": 1,
+      "depth": 1,
+      "npcs": [
+        {
+          "type": "Shopkeeper",
+          "data": "Main",
+          "x": 10,
+          "y": 3,
+          "z": 5
+        },
+        {
+          "type": "Shopkeeper",
+          "data": "Secondary",
+          "x": 10,
+          "y": 3,
+          "z": 4
+        }
+      ]
+    }
+  ],
+  "gyms": [
+    {
+      "id": "electricgym",
+      "filename": "electricgym.schem",
+      "npcdata": "electricgym.json",
+      "depth": 2
+    },
+    {
+      "id": "firegym",
+      "filename": "firegym.schem",
+      "npcdata": "firegym.json",
+      "depth": 7
+    },
+    {
+      "id": "flyinggym",
+      "filename": "flyinggym.schem",
+      "npcdata": "flyinggym.json",
+      "depth": 2
+    },
+    {
+      "id": "grassgym",
+      "filename": "grassgym.schem",
+      "npcdata": "grassgym.json",
+      "depth": 8
+    },
+    {
+      "id": "grassbuggym",
+      "filename": "grassbuggym.schem",
+      "npcdata": "grassbuggym.json",
+      "depth": 2
+    },
+    {
+      "id": "groundgym",
+      "filename": "groundgym.schem",
+      "npcdata": "groundgym.json",
+      "depth": 2
+    },
+    {
+      "id": "icegym",
+      "filename": "icegym.schem",
+      "npcdata": "icegym.json",
+      "depth": 3
+    },
+    {
+      "id": "psychicgym",
+      "filename": "psychicgym.schem",
+      "npcdata": "psychicgym.json",
+      "depth": 2
+    },
+    {
+      "id": "rockgym",
+      "filename": "rockgym.schem",
+      "npcdata": "rockgym.json",
+      "depth": 2
+    },
+    {
+      "id": "steelgym",
+      "filename": "steelgym.schem",
+      "npcdata": "steelgym.json",
+      "depth": 2
+    },
+    {
+      "id": "watergym",
+      "filename": "watergym.schem",
+      "npcdata": "watergym.json",
+      "depth": 3
+    }
+  ],
+  "standalone":[
+    {
+      "id": "center1",
+      "filename": "pokecenter1.schem",
+      "biomes": [ "plains", "forest", "taiga", "birch_forest", "roofed_forest", "redwood_taiga", "savanna" ],
+      "rarity": 20,
+      "depth": 2
+    },
+    {
+      "id": "center2",
+      "filename": "pokecenter2.schem",
+      "biomes": [ "ice_flats", "taiga_cold", "mutated_ice_flats" ],
+      "rarity": 20,
+      "depth": 1
+    },
+    {
+      "id": "center3",
+      "filename": "pokecenter3.schem",
+      "biomes": [ "forest", "taiga", "birch_forest", "roofed_forest", "redwood_taiga" ],
+      "rarity": 20,
+      "depth": 1
+    },
+    {
+      "id": "iceshrine",
+      "filename": "shrine1.schem",
+      "biomes": [ "mutated_ice_flats",	"ice_flats",	"ice_mountains",	"mutated_taiga_cold" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "lightningshrine",
+      "filename": "shrine2.schem",
+      "biomes": [ "savanna_rock", "mutated_savanna",	"mutated_savanna_rock" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "fireshrine",
+      "filename": "shrine3.schem",
+      "biomes": [ "mutated_mesa_clear_rock", "mutated_mesa_rock", "mesa_rock", "mesa_clear_rock" ],
+      "rarity": 20,
+      "depth": 0
+    },
+    {
+      "id": "hauntedtower",
+      "filename": "hauntedtower.schem",
+      "biomes": [ "forest", "birch_forest", "roofed_forest", "swampland" ],
+      "rarity": 20,
+      "depth": 1
+    },
+	{
+	  "id": "spearpillar",
+	  "filename": "spearpillar.schem",
+	  "biomes": [ "ice_mountains", "smaller_extreme_hills", "mutated_extreme_hills", "mutated_extreme_hills_with_trees", "extreme_hills_with_trees", "extreme_hills" ],
+	  "rarity": 25,
+	  "depth": 2
+	},
+    {
+      "id": "celestialshrine",
+      "filename": "celestialshrine.schem",
+      "biomes": [ "ice_mountains", "smaller_extreme_hills", "mutated_extreme_hills", "mutated_extreme_hills_with_trees", "extreme_hills_with_trees", "extreme_hills" ],
+      "rarity": 25,
+      "depth": 2
+    }
+  ],
+  "extradimensional": [
+    {
+      "id": "blacephalon",
+      "type": "ultraBeast",
+      "filename": "ultra-blacephalon.schem",
+      "ultrabeast": {
+        "species": "Blacephalon",
+        "x": 43,
+        "y": 26,
+        "z": 47,
+        "yaw": -180
+      },
+      "player": {
+        "x": 32.5,
+        "y": 23,
+        "z": 11.5,
+        "yaw": 32
+      },
+      "wormhole": {
+        "x": 43,
+        "y": 26,
+        "z": 53,
+        "yaw": -180
+      },
+      "section": {
+        "x": 0,
+        "z": 0
+      },
+      "skybox": "ultra_flame.png"
+    },
+    {
+      "id": "buzzwole",
+      "type": "ultraBeast",
+      "filename": "ultra-buzzwole.schem",
+      "ultrabeast": {
+        "species": "Buzzwole",
+        "x": 11.5,
+        "y": 25,
+        "z": 34.5,
+        "yaw": 32
+      },
+      "wormhole": {
+        "x": 9.5,
+        "y": 25,
+        "z": 34.5,
+        "yaw": 32
+      },
+      "player": {
+        "x": 54,
+        "y": 36,
+        "z": 35.5,
+        "yaw": 0
+      },
+      "section": {
+        "x": 2,
+        "z": 0
+      },
+      "skybox": "ultra_dull.png"
+    },
+    {
+      "id": "celesteela",
+      "type": "ultraBeast",
+      "filename": "ultra-celesteela.schem",
+      "ultrabeast": {
+        "species": "Celesteela",
+        "x": 25.5,
+        "y": 5,
+        "z": 30.5,
+        "yaw": -90
+      },
+      "player": {
+        "x": 48.5,
+        "y": 5,
+        "z": 9.5,
+        "yaw": 0
+      },
+      "wormhole": {
+        "x": 17,
+        "y": 5,
+        "z": 30.5,
+        "yaw": -90
+      },
+      "section": {
+        "x": 4,
+        "z": 0
+      },
+      "skybox": "ultra_sunset.png"
+    },
+    {
+      "id": "guzzlord",
+      "type": "ultraBeast",
+      "filename": "ultra-guzzlord.schem",
+      "ultrabeast": {
+        "species": "Guzzlord",
+        "x": 52,
+        "y": 6,
+        "z": 32,
+        "yaw": 90
+      },
+      "player": {
+        "x": 10,
+        "y": 5,
+        "z": 32,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 50,
+        "y": 6,
+        "z": 41,
+        "yaw": 90
+      },
+      "section": {
+        "x": 6,
+        "z": 0
+      },
+      "skybox": "ultra_ruin.png",
+      "deathReturnToExit": true
+    },
+    {
+      "id": "kartana",
+      "type": "ultraBeast",
+      "filename": "ultra-kartana.schem",
+      "ultrabeast": {
+        "species": "Kartana",
+        "x": 43.5,
+        "y": 2,
+        "z": 41.5,
+        "yaw": 180
+      },
+      "player": {
+        "x": 17,
+        "y": 2,
+        "z": 32.5,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 49.5,
+        "y": 3,
+        "z": 41.5,
+        "yaw": 180
+      },
+      "section": {
+        "x": 8,
+        "z": 0
+      },
+      "skybox": "ultra_dew.png",
+      "deathReturnToExit": true
+    },
+    {
+      "id": "nihilego",
+      "type": "ultraBeast",
+      "filename": "ultra-nihilego.schem",
+      "ultrabeast": {
+        "species": "Nihilego",
+        "x": 16.5,
+        "y": 5,
+        "z": 44.5,
+        "yaw": -90
+      },
+      "player": {
+        "x": 12.5,
+        "y": 5,
+        "z": 28.5,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 18.5,
+        "y": 4,
+        "z": 45,
+        "yaw": -90
+      },
+      "section": {
+        "x": 0,
+        "z": 2
+      },
+      "skybox": "ultra_deep_sea.png",
+      "deathReturnToExit": false
+    },
+    {
+      "id": "pheromosa",
+      "type": "ultraBeast",
+      "filename": "ultra-pheromosa.schem",
+      "ultrabeast": {
+        "species": "Pheromosa",
+        "x": 16,
+        "y": 7,
+        "z": 17,
+        "yaw": -90
+      },
+      "player": {
+        "x": 46.5,
+        "y": 6,
+        "z": 38,
+        "yaw": 90.5
+      },
+      "wormhole": {
+        "x": 16,
+        "y": 7,
+        "z": 17,
+        "yaw": -90
+      },
+      "section": {
+        "x": 2,
+        "z": 2
+      },
+      "skybox": "ultra_crater.png",
+      "deathReturnToExit": true
+    },
+    {
+      "id": "poipole",
+      "type": "ultraBeast",
+      "filename": "ultra-poipole.schem",
+      "ultrabeast": {
+        "species": "Poipole",
+        "x": 54,
+        "y": 16,
+        "z": 31,
+        "yaw": 90
+      },
+      "player": {
+        "x": 2.5,
+        "y": 16,
+        "z": 32,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 58,
+        "y": 6,
+        "z": 31,
+        "yaw": 90
+      },
+      "section": {
+        "x": 4,
+        "z": 2
+      },
+      "skybox": "ultra_null.png"
+    },
+    {
+      "id": "stakataka",
+      "type": "ultraBeast",
+      "filename": "ultra-stakataka.schem",
+      "ultrabeast": {
+        "species": "Stakataka",
+        "x": 38,
+        "y": 20,
+        "z": 25,
+        "yaw": 0
+      },
+      "player": {
+        "x": 9,
+        "y": 31,
+        "z": 44.5,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 38,
+        "y": 20,
+        "z": 22,
+        "yaw": 0
+      },
+      "section": {
+        "x": 6,
+        "z": 2
+      },
+      "skybox": "ultra_forest.png"
+    },
+    {
+      "id": "xurkitree",
+      "type": "ultraBeast",
+      "filename": "ultra-xurkitree.schem",
+      "ultrabeast": {
+        "species": "Xurkitree",
+        "x": 45,
+        "y": 26,
+        "z": 39,
+        "yaw": 90
+      },
+      "player": {
+        "x": 16,
+        "y": 21,
+        "z": 24.5,
+        "yaw": -90
+      },
+      "wormhole": {
+        "x": 48,
+        "y": 26,
+        "z": 39,
+        "yaw": 90
+      },
+      "section": {
+        "x": 8,
+        "z": 2
+      },
+      "skybox": "ultra_chrome.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Gallade",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Gallade",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

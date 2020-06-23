@@ -1,0 +1,29 @@
+{
+  "id": "Lickitung",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Lickitung",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Snubbull",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "rarity": 150,
+      "spec": {
+        "name": "Snubbull",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      }
+    }
+  ]
+}

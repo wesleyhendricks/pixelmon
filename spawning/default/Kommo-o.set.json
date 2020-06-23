@@ -1,0 +1,26 @@
+{
+  "id": "Kommo-o",
+  "spawnInfos": [
+    {
+      "minLevel": 45,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8,
+      "spec": {
+        "name": "Kommo-o",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert_hills"
+        ]
+      }
+    }
+  ]
+}

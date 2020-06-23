@@ -1,0 +1,26 @@
+{
+  "id": "Swellow",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 60,
+      "spec": {
+        "name": "Swellow",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      }
+    }
+  ]
+}

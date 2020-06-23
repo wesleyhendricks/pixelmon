@@ -1,0 +1,26 @@
+{
+  "id": "Haxorus",
+  "spawnInfos": [
+    {
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 85,
+      "spec": {
+        "name": "Haxorus",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:river"
+        ]
+      }
+    }
+  ]
+}

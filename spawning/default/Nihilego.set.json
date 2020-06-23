@@ -1,0 +1,28 @@
+{
+  "id": "Nihilego",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "interval": "legendary",
+      "spec": {
+        "name": "Nihilego",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:river",
+          "minecraft:beach"
+        ]
+      }
+    }
+  ]
+}

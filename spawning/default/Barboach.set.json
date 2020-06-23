@@ -1,0 +1,30 @@
+{
+  "id": "Barboach",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 200,
+      "spec": {
+        "name": "Barboach",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

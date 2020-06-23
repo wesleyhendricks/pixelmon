@@ -1,0 +1,32 @@
+{
+  "id": "Ducklett",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 75,
+      "spec": {
+        "name": "Ducklett",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:river",
+          "minecraft:beaches",
+          "minecraft:jungle",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:jungle_hills",
+          "minecraft:mutated_jungle"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Scraggy",
+  "spawnInfos": [
+    {
+      "minLevel": 2,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "rarity": 60,
+      "spec": {
+        "name": "Scraggy",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:mutated_desert",
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

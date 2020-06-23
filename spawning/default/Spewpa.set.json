@@ -1,0 +1,26 @@
+{
+  "id": "Spewpa",
+  "spawnInfos": [
+    {
+      "minLevel": 9,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Spewpa",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Gastrodon",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 12,
+      "spec": {
+        "name": "Gastrodon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water",
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

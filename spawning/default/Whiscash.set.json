@@ -1,0 +1,30 @@
+{
+  "id": "Whiscash",
+  "spawnInfos": [
+    {
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 150,
+      "spec": {
+        "name": "Whiscash",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

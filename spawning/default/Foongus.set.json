@@ -1,0 +1,29 @@
+{
+  "id": "Foongus",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "rarity": 150,
+      "spec": {
+        "name": "Foongus",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mushroom_island",
+          "minecraft:mushroom_island_shore",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_roofed_forest"
+        ]
+      }
+    }
+  ]
+}

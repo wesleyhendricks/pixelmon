@@ -1,0 +1,26 @@
+{
+  "id": "Wailord",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Wailord",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Araquanid",
+  "spawnInfos": [
+    {
+      "minLevel": 24,
+      "maxLevel": 42,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Araquanid",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:taiga",
+          "minecraft:forest_hills",
+          "minecraft:taiga_hills",
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

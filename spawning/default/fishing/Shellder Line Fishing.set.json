@@ -1,0 +1,56 @@
+{
+	"id": "Shellder Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shellder"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Shellder"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 100
+		},
+		{
+			"spec": {
+				"name": "Cloyster"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 20
+		}
+	]
+}

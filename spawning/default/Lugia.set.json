@@ -1,0 +1,28 @@
+{
+  "id": "Lugia",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 3,
+      "interval": "legendary",
+      "spec": {
+        "name": "Lugia",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean"
+        ]
+      }
+    }
+  ]
+}

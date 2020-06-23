@@ -1,0 +1,64 @@
+{
+  "id": "Graveler",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "rarity": 100,
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:extreme_hills",
+          "minecraft:desert_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_desert",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    },
+    {
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Graveler",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills"
+        ]
+      }
+    }
+  ]
+}

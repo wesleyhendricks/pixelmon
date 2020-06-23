@@ -1,0 +1,27 @@
+{
+  "id": "Latias",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 2,
+      "interval": "legendary",
+      "spec": {
+        "name": "Latias",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean"
+        ]
+      }
+    }
+  ]
+}

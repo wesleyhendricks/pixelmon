@@ -1,0 +1,29 @@
+{
+  "id": "Whirlipede",
+  "spawnInfos": [
+    {
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Whirlipede",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:mutated_jungle"
+        ]
+      }
+    }
+  ]
+}

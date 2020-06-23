@@ -1,0 +1,69 @@
+{
+  "id": "Wormadam",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Wormadam",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:forest_hills",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest",
+          "minecraft:mutated_roofed_forest"
+        ]
+      }
+    },
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Wormadam",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": []
+      }
+    },
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Wormadam",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": []
+      }
+    }
+  ]
+}

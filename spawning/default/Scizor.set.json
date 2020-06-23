@@ -1,0 +1,38 @@
+{
+  "id": "Scizor",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Scizor",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}

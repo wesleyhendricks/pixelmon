@@ -1,0 +1,31 @@
+{
+  "id": "Lunala",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "interval": "legendary",
+      "spec": {
+        "name": "Lunala",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa_clear_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mesa_rock",
+          "minecraft:mutated_mesa_rock"
+        ]
+      }
+    }
+  ]
+}

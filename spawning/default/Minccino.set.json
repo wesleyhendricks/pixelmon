@@ -1,0 +1,35 @@
+{
+  "id": "Minccino",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 200,
+      "spec": {
+        "name": "Minccino",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:birch_forest_hills",
+          "minecraft:birch_forest",
+          "minecraft:forest",
+          "minecraft:plains",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_roofed_forest"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "type": "Mahogany"
+  },
+  "textures": [
+    {
+      "name": "breedergreen_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Cindy"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Mahogany Breeding Shop! Go ahead. Take a look at our products.",
+      "goodbye": "Good luck with your breeding!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:hp_up",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:protein",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:iron",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:calcium",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:zinc",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:carbos",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:destiny_knot",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:ever_stone",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:power_weight",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_bracer",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_belt",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_lens",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_band",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:power_anklet",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:full_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:lax_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:luck_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:odd_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:pure_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:rock_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:rose_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:sea_incense",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:wave_incense",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:soothe_bell",
+      "variation": false
+    }
+  ]
+}

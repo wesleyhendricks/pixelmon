@@ -1,0 +1,27 @@
+{
+  "data": {
+    "type": "TapuVillage"
+  },
+  "textures": [
+    {
+      "name": "none.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Name Goes Here"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Mahogany Breeding Shop! Go ahead. Take a look at our products.",
+      "goodbye": "Good luck with your breeding!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:covered_fossil_0",
+	  "variation": false
+    },
+  ]
+}

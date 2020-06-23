@@ -1,0 +1,36 @@
+{
+  "id": "Munchlax",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Munchlax",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:taiga",
+          "minecraft:taiga_hills",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_taiga",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

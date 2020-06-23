@@ -1,0 +1,29 @@
+{
+  "id": "Cyndaquil",
+  "spawnInfos": [
+    {
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "rarity": 7,
+      "spec": {
+        "name": "Cyndaquil",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}

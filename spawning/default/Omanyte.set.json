@@ -1,0 +1,29 @@
+{
+  "id": "Omanyte",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Omanyte",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Seadra",
+  "spawnInfos": [
+    {
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Seadra",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

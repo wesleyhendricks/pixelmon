@@ -1,0 +1,32 @@
+{
+  "id": "Castform",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 15,
+      "spec": {
+        "name": "Castform",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

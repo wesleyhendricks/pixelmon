@@ -1,0 +1,27 @@
+{
+  "id": "Furfrou",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Furfrou",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:birch_forest"
+        ]
+      }
+    }
+  ]
+}

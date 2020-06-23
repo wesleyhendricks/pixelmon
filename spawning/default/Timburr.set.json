@@ -1,0 +1,27 @@
+{
+  "id": "Timburr",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Timburr",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

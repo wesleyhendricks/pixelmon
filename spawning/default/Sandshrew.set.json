@@ -1,0 +1,56 @@
+{
+  "id": "Sandshrew",
+  "spawnInfos": [
+    {
+      "minLevel": 12,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "rarity": 190,
+      "spec": {
+        "name": "Sandshrew",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_desert",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    },
+    {
+      "minLevel": 12,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "rarity": 20,
+      "spec": {
+        "name": "Sandshrew",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_ice_flats"
+        ]
+      }
+    }
+  ]
+}

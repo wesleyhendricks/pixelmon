@@ -1,0 +1,28 @@
+{
+  "id": "Groudon",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "interval": "legendary",
+      "spec": {
+        "name": "Groudon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert_hills",
+          "minecraft:desert"
+        ]
+      }
+    }
+  ]
+}

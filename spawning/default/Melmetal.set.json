@@ -1,0 +1,24 @@
+{
+  "id": "Melmetal",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Melmetal",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": []
+      }
+    }
+  ]
+}

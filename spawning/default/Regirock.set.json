@@ -1,0 +1,27 @@
+{
+  "id": "Regirock",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 6,
+      "interval": "legendary",
+      "spec": {
+        "name": "Regirock",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

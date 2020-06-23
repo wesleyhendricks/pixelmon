@@ -1,0 +1,34 @@
+{
+  "id": "Rampardos",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Rampardos",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

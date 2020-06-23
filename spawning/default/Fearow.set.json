@@ -1,0 +1,28 @@
+{
+  "id": "Fearow",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Fearow",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:mutated_plains"
+        ]
+      }
+    }
+  ]
+}

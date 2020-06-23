@@ -1,0 +1,31 @@
+{
+  "id": "Sudowoodo",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Sudowoodo",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "TypeNull",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "interval": "legendary",
+      "rarity": 7,
+      "spec": {
+        "name": "TypeNull",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_extreme_hills"
+        ]
+      }
+    }
+  ]
+}

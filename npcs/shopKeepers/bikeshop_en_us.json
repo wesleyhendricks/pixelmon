@@ -1,0 +1,47 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "cueball.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Biker Ralph"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "You there! Pokémon hunter! I have precious items to offer you!",
+      "goodbye": "If you are lucky, you might see me again, Pokémon hunter."
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:green_bike",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:red_bike",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:yellow_bike",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:blue_bike",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:purple_bike",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:orange_bike",
+      "variation": false
+    }
+  ]
+}

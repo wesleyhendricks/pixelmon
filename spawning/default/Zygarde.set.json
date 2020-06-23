@@ -1,0 +1,26 @@
+{
+  "id": "Zygarde",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 2,
+      "spec": {
+        "name": "Zygarde",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+		  "minecraft:desert_hills"
+		]
+      }
+    }
+  ]
+}

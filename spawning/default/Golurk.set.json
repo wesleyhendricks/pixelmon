@@ -1,0 +1,33 @@
+{
+  "id": "Golurk",
+  "spawnInfos": [
+    {
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Golurk",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

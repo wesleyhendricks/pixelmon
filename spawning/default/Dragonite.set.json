@@ -1,0 +1,26 @@
+{
+  "id": "Dragonite",
+  "spawnInfos": [
+    {
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Dragonite",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "type": "TapuVillage"
+  },
+  "textures": [
+    {
+      "name": "none.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Name Goes Here"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Mahogany Breeding Shop! Go ahead. Take a look at our products.",
+      "goodbye": "Good luck with your breeding!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:covered_fossil_0",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_1",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:covered_fossil_2",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_3",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_4",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_5",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_6",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_7",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_8",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_9",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:covered_fossil_10",
+	  "variation": false
+    },
+	{
+      "name": "enderio:block_enderman_skull",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:fossil_machine",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:fossil_cleaner",
+	  "variation": false
+    }
+  ]
+}

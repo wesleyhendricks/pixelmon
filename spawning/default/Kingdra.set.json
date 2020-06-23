@@ -1,0 +1,27 @@
+{
+  "id": "Kingdra",
+  "spawnInfos": [
+    {
+      "minLevel": 45,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Kingdra",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

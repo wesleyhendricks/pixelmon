@@ -1,0 +1,29 @@
+{
+  "id": "Shinx",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "rarity": 180,
+      "spec": {
+        "name": "Shinx",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}

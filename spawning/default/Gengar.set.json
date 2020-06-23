@@ -1,0 +1,33 @@
+{
+  "id": "Gengar",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Gengar",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:taiga",
+          "minecraft:taiga_hills",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

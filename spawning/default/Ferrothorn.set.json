@@ -1,0 +1,27 @@
+{
+  "id": "Ferrothorn",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "rarity": 45,
+      "spec": {
+        "name": "Ferrothorn",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

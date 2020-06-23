@@ -1,0 +1,26 @@
+{
+  "id": "Mudbray",
+  "spawnInfos": [
+    {
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Mudbray",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills"
+        ]
+      }
+    }
+  ]
+}

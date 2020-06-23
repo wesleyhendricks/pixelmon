@@ -1,0 +1,28 @@
+{
+  "id": "Delphox",
+  "spawnInfos": [
+    {
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Delphox",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:mutated_desert",
+          "minecraft:desert_hills"
+        ]
+      }
+    }
+  ]
+}

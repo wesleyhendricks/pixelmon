@@ -1,0 +1,40 @@
+{
+  "id": "MimeJr",
+  "spawnInfos": [
+    {
+      "minLevel": 9,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "rarity": 15,
+      "spec": {
+        "name": "MimeJr",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:taiga",
+          "minecraft:forest_hills",
+          "minecraft:taiga_hills",
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:roofed_forest",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_taiga",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_roofed_forest",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

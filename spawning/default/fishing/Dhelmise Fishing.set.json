@@ -1,0 +1,49 @@
+{
+	"id": "Dhelmise Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Dhelmise"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 10,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 2.5,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Dhelmise"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 25,
+			"maxLevel": 49,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river"
+				]
+			},
+			"rarity": 35
+		}
+	]
+}

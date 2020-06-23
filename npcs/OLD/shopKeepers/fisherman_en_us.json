@@ -1,0 +1,35 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "fisherman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Fisherman Joe"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "I caught a huge Magikarp the other day. It was THIS big! I'm being serious!",
+      "goodbye": "Good luck with your fishin!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:old_rod",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:good_rod",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:super_rod",
+      "variation": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Clefable",
+  "spawnInfos": [
+    {
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Clefable",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

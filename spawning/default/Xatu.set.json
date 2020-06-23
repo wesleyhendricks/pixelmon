@@ -1,0 +1,31 @@
+{
+  "id": "Xatu",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 75,
+      "spec": {
+        "name": "Xatu",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge",
+          "minecraft:mutated_jungle",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

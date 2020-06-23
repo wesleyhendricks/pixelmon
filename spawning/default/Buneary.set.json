@@ -1,0 +1,29 @@
+{
+  "id": "Buneary",
+  "spawnInfos": [
+    {
+      "minLevel": 28,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Buneary",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ice_mountains",
+          "minecraft:taiga_cold",
+          "minecraft:taiga_cold_hills",
+          "minecraft:mutated_taiga_cold"
+        ]
+      }
+    }
+  ]
+}

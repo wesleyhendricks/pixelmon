@@ -1,0 +1,26 @@
+{
+  "id": "Sandygast",
+  "spawnInfos": [
+    {
+      "minLevel": 1,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Sandygast",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"id": "Water Stone Fishing",
+	"spawnInfos": [
+		{
+			"itemID": "water_stone",
+			"stringLocationTypes": [
+				"Good Rod",
+				"Super Rod"
+			],
+			"minQuantity": 1,
+			"maxQuantity": 1,
+			"typeID": "item",
+			"rarity": 1
+		}
+	]
+}

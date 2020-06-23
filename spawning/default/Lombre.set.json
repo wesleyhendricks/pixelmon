@@ -1,0 +1,27 @@
+{
+  "id": "Lombre",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Lombre",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

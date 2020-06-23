@@ -1,0 +1,29 @@
+{
+  "id": "Landorus",
+  "spawnInfos": [
+    {
+      "minLevel": 70,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 6,
+      "interval": "legendary",
+      "spec": {
+        "name": "Landorus",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa_clear_rock",
+          "minecraft:forest_hills"
+        ]
+      }
+    }
+  ]
+}

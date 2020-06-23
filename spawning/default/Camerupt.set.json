@@ -1,0 +1,28 @@
+{
+  "id": "Camerupt",
+  "spawnInfos": [
+    {
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 10,
+      "spec": {
+        "name": "Camerupt",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Beedrill",
+  "spawnInfos": [
+    {
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 50,
+      "spec": {
+        "name": "Beedrill",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills"
+        ]
+      }
+    }
+  ]
+}

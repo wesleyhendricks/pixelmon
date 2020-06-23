@@ -1,0 +1,30 @@
+{
+  "id": "Whismur",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "rarity": 160,
+      "spec": {
+        "name": "Whismur",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

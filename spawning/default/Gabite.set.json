@@ -1,0 +1,31 @@
+{
+  "id": "Gabite",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Gabite",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

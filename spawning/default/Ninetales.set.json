@@ -1,0 +1,51 @@
+{
+  "id": "Ninetales",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Ninetales",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    },
+    {
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Ninetales",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:taiga_cold",
+          "minecraft:ice_flats"
+        ]
+      }
+    }
+  ]
+}

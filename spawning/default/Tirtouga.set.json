@@ -1,0 +1,28 @@
+{
+  "id": "Tirtouga",
+  "spawnInfos": [
+    {
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Tirtouga",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water",
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "data": {
+    "type": "Snowpoint"
+  },
+  "textures": [
+    {
+      "name": "shopman2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Lance"
+    }
+  ],
+  "chat": [
+    {
+      "hello": Hellooo, look at all the pretty colors.",
+      "goodbye": "See you next time."
+    }
+  ],
+  "items": [
+    {
+      "name": "minecraft:ink_sac",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:gray_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:light_gray_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:bone_meal",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:purple_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:lapis_lazuli",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:cyan_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:light_blue_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:cactus_green",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:lime_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:dandelion_yellow",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:pink_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:orange_dye",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:rose_red",
+	  "variation": false
+    },
+    {
+      "name": "minecraft:cocoa_beans",
+	  "variation": false
+    }
+  ]
+}

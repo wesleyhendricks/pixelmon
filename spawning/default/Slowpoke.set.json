@@ -1,0 +1,34 @@
+{
+  "id": "Slowpoke",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Slowpoke",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:beaches",
+          "minecraft:deep_ocean",
+          "minecraft:stone_beach",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Surskit",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Surskit",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:river",
+          "minecraft:swampland",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

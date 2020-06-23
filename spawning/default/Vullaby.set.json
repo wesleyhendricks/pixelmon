@@ -1,0 +1,34 @@
+{
+  "id": "Vullaby",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "rarity": 120,
+      "spec": {
+        "name": "Vullaby",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert",
+          "minecraft:desert",
+          "minecraft:mutated_desert",
+          "minecraft:desert_hills",
+          "minecraft:desert",
+          "minecraft:desert_hills",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

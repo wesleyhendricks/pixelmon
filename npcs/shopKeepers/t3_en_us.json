@@ -1,0 +1,75 @@
+{
+  "data": {
+    "type": "TapuVillage"
+  },
+  "textures": [
+    {
+      "name": "none.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Name Goes Here"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "I'm living off the grid. You can too!",
+      "goodbye": "Thank you. Please come back soon!"
+    }
+  ],
+  "items": [
+	{
+      "name": "solarflux:solar_panel_1",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:solar_panel_2",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:solar_panel_3",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:solar_panel_4",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:solar_panel_5",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:solar_panel_6",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:capacity_upgrade",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:efficiency_upgrade",
+	  "variation": false
+    },
+	{
+      "name": "solarflux:transfer_rate_upgrade",
+	  "variation": false
+    },
+	{ 
+	  "name": "EnergyConduit",
+	  "variation": false
+    },
+	{ 
+	  "name": "EnhancedEnergyConduit",
+	  "variation": false
+    },
+	{ 
+	  "name": "EnderEnergyConduit",
+	  "variation": false
+    },
+	{ 
+	  "name": "enderio:item_item_conduit",
+	  "variation": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Registeel",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 4,
+      "interval": "legendary",
+      "spec": {
+        "name": "Registeel",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_mesa"
+        ]
+      }
+    }
+  ]
+}

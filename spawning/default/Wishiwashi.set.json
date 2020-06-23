@@ -1,0 +1,28 @@
+{
+  "id": "Wishiwashi",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "rarity": 60,
+      "spec": {
+        "name": "Wishiwashi",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean"
+        ]
+      }
+    }
+  ]
+}

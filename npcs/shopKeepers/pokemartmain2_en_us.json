@@ -1,0 +1,357 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hi, welcome to the Poké Mart. Would you like any help?",
+      "goodbye": "Bye then. Visit us again soon."
+    },
+    {
+      "hello": "Hi, how are you? Welcome to the Poké Mart. Just call out if you need any help.",
+      "goodbye": "Nice to see you. Have a great day!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:choice_band",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:choice_scarf",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:choice_specs",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:muscle_band",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:macho_brace",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:wide_lens",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:leftovers",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:shell_bell",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:metronome",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:kings_rock",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:razor_fang",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:razor_claw",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:absorb_bulb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:life_orb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:focus_sash",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:focus_band",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:toxic_orb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:flame_orb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_sludge",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:scope_lens",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:air_balloon",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:rocky_helmet",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:shed_shell",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:damp_rock",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:heat_rock",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:icy_rock",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:smooth_rock",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:eviolite",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:light_ball",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:lucky_punch",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:metal_powder",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:quick_powder",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:stick",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:thick_club",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:power_herb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:red_card",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:expert_belt",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:light_clay",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:mental_herb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:sticky_barb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:quick_claw",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:white_herb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:big_root",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:zoom_lens",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:bright_powder",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:lagging_tail",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:wise_glasses",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:eject_button",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:binding_band",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:iron_ball",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:grip_claw",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:float_stone",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:micle_berry",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:ring_target",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_belt",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:black_glasses",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:charcoal",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:dragon_fang",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hard_stone",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:magnet",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:metal_coat",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:miracle_seed",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:mystic_water",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:never_melt_ice",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:poison_barb",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:sharp_beak",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:silk_scarf",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:silver_powder",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:soft_sand",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:spell_tag",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:twisted_spoon",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:assault_vest",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:luminous_moss",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:safety_goggles",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:snowball",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:weakness_policy",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:ability_capsule",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:deep_sea_tooth",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:deep_sea_scale",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:soul_dew",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:berry_juice",
+	  "variation": false
+    }
+  ]
+}

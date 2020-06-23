@@ -1,0 +1,29 @@
+{
+  "id": "Spearow",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "rarity": 200,
+      "spec": {
+        "name": "Spearow",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest_hills",
+          "minecraft:mutated_plains"
+        ]
+      }
+    }
+  ]
+}

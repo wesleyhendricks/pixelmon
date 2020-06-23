@@ -1,0 +1,32 @@
+{
+  "id": "Staravia",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "rarity": 90,
+      "spec": {
+        "name": "Staravia",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills",
+          "minecraft:extreme_hills_with_trees",
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

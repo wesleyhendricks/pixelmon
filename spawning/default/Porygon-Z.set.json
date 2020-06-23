@@ -1,0 +1,24 @@
+{
+  "id": "Porygon-Z",
+  "spawnInfos": [
+    {
+      "minLevel": 1,
+      "maxLevel": 100,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Porygon-Z",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": []
+      }
+    }
+  ]
+}

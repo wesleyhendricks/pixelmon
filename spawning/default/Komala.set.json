@@ -1,0 +1,27 @@
+{
+  "id": "Komala",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 70,
+      "spec": {
+        "name": "Komala",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle_hills",
+          "minecraft:jungle_edge"
+        ]
+      }
+    }
+  ]
+}

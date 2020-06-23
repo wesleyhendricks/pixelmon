@@ -1,0 +1,35 @@
+{
+  "data": {
+    "type": "Mahogany"
+  },
+  "textures": [
+    {
+      "name": "tracey.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Tracey"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Tracey is my name. Photography is my game. I took all the pictures of the Gym Leader's Florges! Have you seen them?",
+      "goodbye": "Please come again!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:camera",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:film",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:painting",
+      "variation": false
+    }
+  ]
+}

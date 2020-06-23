@@ -1,0 +1,26 @@
+{
+  "id": "Mudsdale",
+  "spawnInfos": [
+    {
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "rarity": 70,
+      "spec": {
+        "name": "Mudsdale",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:extreme_hills"
+        ]
+      }
+    }
+  ]
+}

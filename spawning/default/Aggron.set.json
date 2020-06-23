@@ -1,0 +1,32 @@
+{
+  "id": "Aggron",
+  "spawnInfos": [
+    {
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Aggron",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Underground"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

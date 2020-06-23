@@ -1,0 +1,36 @@
+{
+  "id": "Ledyba",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "rarity": 150,
+      "spec": {
+        "name": "Ledyba",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:forest_hills",
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_roofed_forest"
+        ]
+      }
+    }
+  ]
+}

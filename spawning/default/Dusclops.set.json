@@ -1,0 +1,31 @@
+{
+  "id": "Dusclops",
+  "spawnInfos": [
+    {
+      "minLevel": 38,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "rarity": 0,
+      "spec": {
+        "name": "Dusclops",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

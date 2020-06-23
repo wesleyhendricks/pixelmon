@@ -1,0 +1,26 @@
+{
+  "id": "Rowlet",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Rowlet",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest"
+        ]
+      }
+    }
+  ]
+}

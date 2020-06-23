@@ -1,0 +1,772 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shopsecondman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mr. Hammersmith",
+	  "variation": false
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing this luxury range of items.",
+      "goodbye": "Thank you for shopping at my store."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:hm1",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:hm2",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:hm3",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm4",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm5",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm6",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm7",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm8",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm9",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:hm10",
+      "variation": false
+    },
+    {
+      "name": "pixelmon:tm1",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm2",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm3",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm4",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm5",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm6",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm7",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm8",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm9",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm10",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm11",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm12",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm13",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm14",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm15",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm16",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm17",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm18",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm19",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm20",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm21",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm22",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm23",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm24",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm25",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm26",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm27",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm28",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm29",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm30",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm31",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm32",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm33",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm34",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm35",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm36",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm37",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm38",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm39",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm40",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm41",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm42",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm43",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm44",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm45",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm46",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm47",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm48",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm49",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm50",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm51",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm52",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm53",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm54",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm55",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm56",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm57",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm58",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm59",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm60",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm61",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm62",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm63",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm64",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm65",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm66",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm67",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm68",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm69",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm70",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm71",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm72",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm73",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm74",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm75",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm76",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm77",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm78",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm79",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm80",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm81",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm82",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm83",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm84",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm85",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm86",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm87",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm88",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm89",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm90",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm91",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm92",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm93",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm94",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm95",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm96",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm97",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm98",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm99",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm100",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm101",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm102",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm103",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm104",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm105",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm106",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm107",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm108",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm109",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm110",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm111",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm112",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm113",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm114",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm115",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm116",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm117",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm118",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm119",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm120",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm121",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm122",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm123",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm124",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm125",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm126",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm127",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm128",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm129",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm130",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm131",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm132",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm133",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm134",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm135",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm136",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm137",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm138",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm139",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm140",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm141",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm142",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm143",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm144",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm145",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm146",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm147",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm148",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm149",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm150",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm151",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm152",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm153",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm154",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm155",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm156",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm157",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm158",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm159",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm160",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm161",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm162",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm163",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm164",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm165",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm166",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm167",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm168",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm169",
+	  "variation": false
+    },
+    {
+      "name": "pixelmon:tm170",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm171",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm172",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm173",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm174",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm175",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm176",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:tm177",
+	  "variation": false
+    }
+  ]
+}

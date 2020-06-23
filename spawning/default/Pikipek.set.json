@@ -1,0 +1,27 @@
+{
+  "id": "Pikipek",
+  "spawnInfos": [
+    {
+      "minLevel": 4,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "rarity": 200,
+      "spec": {
+        "name": "Pikipek",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:jungle",
+          "minecraft:jungle_hills"
+        ]
+      }
+    }
+  ]
+}

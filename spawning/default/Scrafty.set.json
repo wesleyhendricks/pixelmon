@@ -1,0 +1,27 @@
+{
+  "id": "Scrafty",
+  "spawnInfos": [
+    {
+      "minLevel": 39,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Scrafty",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:desert",
+          "minecraft:mutated_desert"
+        ]
+      }
+    }
+  ]
+}

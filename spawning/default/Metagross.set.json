@@ -1,0 +1,31 @@
+{
+  "id": "Metagross",
+  "spawnInfos": [
+    {
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Metagross",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Vespiquen",
+  "spawnInfos": [
+    {
+      "minLevel": 26,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "rarity": 40,
+      "spec": {
+        "name": "Vespiquen",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

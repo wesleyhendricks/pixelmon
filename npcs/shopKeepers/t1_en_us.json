@@ -1,0 +1,55 @@
+{
+  "data": {
+    "type": "TapuVillage"
+  },
+  "textures": [
+    {
+      "name": "none.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Name Goes Here"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to the Mahogany Breeding Shop! Go ahead. Take a look at our products.",
+      "goodbye": "Good luck with your breeding!"
+    }
+  ],
+  "items": [
+	{
+      "name": "pixelmon:rare_candy",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:xs_candy",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:s_candy",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:m_candy",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:l_candy",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:xl_candy",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:exp_share",
+	  "variation": false
+    },
+	{
+      "name": "pixelmon:exp_all",
+	  "variation": false
+    }
+  ]
+}

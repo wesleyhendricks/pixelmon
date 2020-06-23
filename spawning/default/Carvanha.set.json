@@ -1,0 +1,33 @@
+{
+  "id": "Carvanha",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "rarity": 75,
+      "spec": {
+        "name": "Carvanha",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:ocean",
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:jungle",
+          "minecraft:deep_ocean",
+          "minecraft:mutated_swampland",
+          "minecraft:mutated_jungle"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Gurdurr",
+  "spawnInfos": [
+    {
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "rarity": 30,
+      "spec": {
+        "name": "Gurdurr",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_extreme_hills",
+          "minecraft:mutated_extreme_hills_with_trees"
+        ]
+      }
+    }
+  ]
+}

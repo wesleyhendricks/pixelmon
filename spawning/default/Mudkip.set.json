@@ -1,0 +1,28 @@
+{
+  "id": "Mudkip",
+  "spawnInfos": [
+    {
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "rarity": 10,
+      "spec": {
+        "name": "Mudkip",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:swampland",
+          "minecraft:river",
+          "minecraft:mutated_swampland"
+        ]
+      }
+    }
+  ]
+}

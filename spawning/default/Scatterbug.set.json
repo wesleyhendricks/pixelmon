@@ -1,0 +1,32 @@
+{
+  "id": "Scatterbug",
+  "spawnInfos": [
+    {
+      "minLevel": 1,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Scatterbug",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:birch_forest_hills",
+          "minecraft:birch_forest",
+          "minecraft:forest",
+          "minecraft:plains",
+          "minecraft:roofed_forest",
+          "minecraft:mutated_roofed_forest",
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

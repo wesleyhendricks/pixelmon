@@ -1,0 +1,41 @@
+{
+  "id": "Spinarak",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "rarity": 200,
+      "spec": {
+        "name": "Spinarak",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:taiga",
+          "minecraft:forest_hills",
+          "minecraft:taiga_hills",
+          "minecraft:birch_forest",
+          "minecraft:birch_forest_hills",
+          "minecraft:roofed_forest",
+          "minecraft:redwood_taiga",
+          "minecraft:redwood_taiga_hills",
+          "minecraft:mutated_plains",
+          "minecraft:mutated_forest",
+          "minecraft:mutated_birch_forest",
+          "minecraft:mutated_birch_forest_hills",
+          "minecraft:mutated_roofed_forest",
+          "minecraft:mutated_redwood_taiga",
+          "minecraft:mutated_redwood_taiga_hills"
+        ]
+      }
+    }
+  ]
+}

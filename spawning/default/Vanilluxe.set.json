@@ -1,0 +1,28 @@
+{
+  "id": "Vanilluxe",
+  "spawnInfos": [
+    {
+      "minLevel": 47,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 5,
+      "spec": {
+        "name": "Vanilluxe",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_ice_flats",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_river"
+        ]
+      }
+    }
+  ]
+}

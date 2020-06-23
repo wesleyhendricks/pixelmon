@@ -1,0 +1,28 @@
+{
+  "id": "Vanillish",
+  "spawnInfos": [
+    {
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "rarity": 120,
+      "spec": {
+        "name": "Vanillish",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_ice_flats",
+          "minecraft:frozen_ocean",
+          "minecraft:frozen_river"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Cutiefly",
+  "spawnInfos": [
+    {
+      "minLevel": 10,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "rarity": 140,
+      "spec": {
+        "name": "Cutiefly",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:mutated_forest"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Doduo",
+  "spawnInfos": [
+    {
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "rarity": 80,
+      "spec": {
+        "name": "Doduo",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna",
+          "minecraft:savanna_rock",
+          "minecraft:mutated_savanna",
+          "minecraft:mutated_savanna_rock"
+        ]
+      }
+    }
+  ]
+}
