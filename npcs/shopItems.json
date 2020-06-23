@@ -3451,6 +3451,57 @@
       "name": "enderio:item_item_conduit",
 	  "buy": 640,
       "sell": 320
+    },
+	{ 
+	  "id": "CertusQuartzCrystal",
+      "name": "appliedenergistics2:material",
+	  "itemData": 0,
+      "buy": 156,
+      "sell": 156
+    },
+	{ 
+	  "id": "ChargedCertusQuartzCrystal",
+      "name": "appliedenergistics2:material",
+	  "itemData": 1,
+      "buy": 312,
+      "sell": 312
+    },
+	{ 
+	  "id": "Singularity",
+      "name": "appliedenergistics2:material",
+	  "itemData": 47,
+      "buy": 1000,
+      "sell": 1000
+    },
+	{
+      "name": "minecraft:slime_ball",
+	  "buy": 250,
+      "sell": 250
+    },
+	{
+      "name": "minecraft:clay",
+	  "buy": 50,
+      "sell": 50
+    },
+	{
+      "name": "minecraft:bone",
+	  "buy": 20,
+      "sell": 20
+    },
+	{
+      "name": "minecraft:ender_pearl",
+	  "buy": 40,
+      "sell": 40
+    },
+	{
+      "name": "minecraft:blaze_rod",
+	  "buy": 40,
+      "sell": 40
+    },
+	{
+      "name": "minecraft:ghast_tear",
+	  "buy": 40,
+      "sell": 40
     }
   ]
 } 

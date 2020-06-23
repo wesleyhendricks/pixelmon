@@ -5,7 +5,7 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 6,
+      "rarity": 8,
       "interval": "legendary",
       "spec": {
         "name": "Xerneas",

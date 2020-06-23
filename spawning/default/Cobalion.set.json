@@ -5,7 +5,7 @@
       "minLevel": 45,
       "maxLevel": 45,
       "typeID": "pokemon",
-      "rarity": 6,
+      "rarity": 8,
       "interval": "legendary",
       "spec": {
         "name": "Cobalion",

@@ -5,7 +5,7 @@
       "minLevel": 40,
       "maxLevel": 40,
       "typeID": "pokemon",
-      "rarity": 2,
+      "rarity": 4,
       "interval": "legendary",
       "spec": {
         "name": "Regice",

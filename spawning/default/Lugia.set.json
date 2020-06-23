@@ -5,7 +5,7 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 3,
+      "rarity": 4,
       "interval": "legendary",
       "spec": {
         "name": "Lugia",

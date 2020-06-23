@@ -5,7 +5,7 @@
       "minLevel": 5,
       "maxLevel": 40,
       "typeID": "pokemon",
-      "rarity": 28,
+      "rarity": 64,
       "spec": {
         "name": "Meltan",
         "form": 0
