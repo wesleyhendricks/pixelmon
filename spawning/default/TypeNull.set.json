@@ -6,7 +6,7 @@
       "maxLevel": 20,
       "typeID": "pokemon",
       "interval": "legendary",
-      "rarity": 7,
+      "rarity": 6,
       "spec": {
         "name": "TypeNull",
         "form": 0
