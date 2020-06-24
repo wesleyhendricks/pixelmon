@@ -5,7 +5,7 @@
       "minLevel": 30,
       "maxLevel": 55,
       "typeID": "pokemon",
-      "rarity": 0,
+      "rarity": 8,
       "spec": {
         "name": "Weavile",
         "form": 0
@@ -21,7 +21,8 @@
         "stringBiomes": [
           "minecraft:taiga_cold",
           "minecraft:taiga_cold_hills",
-          "minecraft:mutated_taiga_cold"
+          "minecraft:mutated_taiga_cold",
+          "minecraft:ice_plains_spikes"
         ]
       }
     },
@@ -29,7 +30,7 @@
       "minLevel": 30,
       "maxLevel": 55,
       "typeID": "pokemon",
-      "rarity": 0,
+      "rarity": 8,
       "spec": {
         "name": "Weavile",
         "form": 8
@@ -45,7 +46,8 @@
         "stringBiomes": [
           "minecraft:taiga_cold",
           "minecraft:taiga_cold_hills",
-          "minecraft:mutated_taiga_cold"
+          "minecraft:mutated_taiga_cold",
+          "minecraft:ice_plains_spikes"
         ]
       }
     }
