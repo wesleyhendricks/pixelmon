@@ -5,7 +5,8 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 0,
+      "interval": "legendary",
+      "rarity": 8,
       "spec": {
         "name": "Palkia",
         "form": 0
