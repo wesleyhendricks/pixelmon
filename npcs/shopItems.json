@@ -3506,7 +3506,6 @@
     { 
 	  "id": "InkSac",
       "name": "minecraft:dye",
-	  "itemData": 0,
       "buy": 100,
       "sell": 50
     },
