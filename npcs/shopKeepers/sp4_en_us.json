@@ -4,7 +4,7 @@
   },
   "textures": [
     {
-      "name": "Other.png"
+      "name": "shopman3.png"
     }
   ],
   "names": [
@@ -14,69 +14,61 @@
   ],
   "chat": [
     {
-      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
+      "hello": "Welcome to my Poké Mart. We got colors for days!",
       "goodbye": "See you next time."
     }
   ],
   "items": [
 	{
-      "name": "minecraft:ink_sac",
+      "name": "InkSac",
 	  "variation": false
     },
     {
-      "name": "minecraft:gray_dye",
+      "name": "GrayDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:light_gray_dye",
+      "name": "LightGrayDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:bone_meal",
+      "name": "PurpleDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:purple_dye",
+      "name": "CyanDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:lapis_lazuli",
+      "name": "LightBlueDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:cyan_dye",
+      "name": "CactusGreen",
 	  "variation": false
     },
     {
-      "name": "minecraft:light_blue_dye",
+      "name": "LimeDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:cactus_green",
+      "name": "DandelionYellow",
 	  "variation": false
     },
     {
-      "name": "minecraft:lime_dye",
+      "name": "PinkDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:dandelion_yellow",
+      "name": "OrangeDye",
 	  "variation": false
     },
     {
-      "name": "minecraft:pink_dye",
+      "name": "RodeRed",
 	  "variation": false
     },
     {
-      "name": "minecraft:orange_dye",
-	  "variation": false
-    },
-    {
-      "name": "minecraft:rose_red",
-	  "variation": false
-    },
-    {
-      "name": "minecraft:cocoa_beans",
+      "name": "CocoBeans",
 	  "variation": false
     },
 	{
