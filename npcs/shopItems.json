@@ -3502,6 +3502,97 @@
       "name": "minecraft:ghast_tear",
 	  "buy": 40,
       "sell": 40
+    },
+    { 
+	  "id": "InkSac",
+      "name": "minecraft:dye",
+	  "itemData": 0,
+      "buy": 100,
+      "sell": 50
+    },
+    { 
+	  "id": "GrayDye",
+      "name": "minecraft:dye",
+	  "itemData": 8,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "LightGrayDye",
+      "name": "minecraft:dye",
+	  "itemData": 7,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "PurpleDye",
+      "name": "minecraft:dye",
+	  "itemData": 5,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "CyanDye",
+      "name": "minecraft:dye",
+	  "itemData": 6,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "LightBlueDye",
+      "name": "minecraft:dye",
+	  "itemData": 12,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "CactusGreen",
+      "name": "minecraft:dye",
+	  "itemData": 2,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "LimeDye",
+      "name": "minecraft:dye",
+	  "itemData": 10,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "DandelionYellow",
+      "name": "minecraft:dye",
+	  "itemData": 11,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "PinkDye",
+      "name": "minecraft:dye",
+	  "itemData": 9,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "OrangeDye",
+      "name": "minecraft:dye",
+	  "itemData": 6,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "RoseRed",
+      "name": "minecraft:dye",
+	  "itemData": 1,
+      "buy": 10,
+      "sell": 1
+    },
+    { 
+	  "id": "CocoBeans",
+      "name": "minecraft:dye",
+	  "itemData": 3,
+      "buy": 10,
+      "sell": 1
     }
   ]
 } 
