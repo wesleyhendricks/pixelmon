@@ -3602,8 +3602,8 @@
 	  "id": "CocoBeans",
       "name": "minecraft:dye",
 	  "itemData": 3,
-      "buy": 10,
-      "sell": 1
+      "buy": 100,
+      "sell": 10
     }
   ]
 } 
