@@ -5,7 +5,7 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 8,
+      "rarity": 7,
       "interval": "legendary",
       "spec": {
         "name": "Celebi",

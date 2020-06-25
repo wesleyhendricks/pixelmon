@@ -2616,6 +2616,18 @@
       "sell": 6
     },
 	{
+      "name": "minecraft:cobblestone",
+      "sell": 1
+    },
+	{
+      "name": "minecraft:dirt",
+      "sell": 1
+    },
+	{
+      "name": "minecraft:gravel",
+      "sell": 1
+    },
+	{
       "name": "minecraft:redstone",
       "buy": 10,
       "sell": 10

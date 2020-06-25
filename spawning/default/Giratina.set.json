@@ -5,8 +5,8 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 15,
       "interval": "legendary",
+      "rarity": 10,
       "spec": {
         "name": "Giratina",
         "form": 0
@@ -19,7 +19,8 @@
           "NIGHT"
         ],
         "stringBiomes": [
-          "minecraft:mutated_roofed_forest"
+          "minecraft:mutated_roofed_forest",
+          "minecraft:roofed_forest"
         ]
       }
     }
