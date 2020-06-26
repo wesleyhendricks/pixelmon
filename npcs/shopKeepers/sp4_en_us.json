@@ -75,9 +75,13 @@
       "name": "BoneMeal",
 	  "variation": false
     },
-	{
+    {
       "name": "LapisLazuli",
-	  "variation": false
+      "variation": false
+    },
+    {
+      "name": "WhiteWool",
+      "variation": false
     }
   ]
 }
