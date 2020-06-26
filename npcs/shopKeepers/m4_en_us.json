@@ -71,9 +71,13 @@
       "name": "StoneBrick",
 	  "variation": false
     },
-	{
+    {
       "name": "StainedClay",
-	  "variation": false
+      "variation": false
+    },
+    {
+      "name": "WhiteWool",
+      "variation": false
     }
   ]
 }

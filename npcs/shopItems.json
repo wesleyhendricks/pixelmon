@@ -1,26 +1,26 @@
 {
   "items": [
-	{
+    {
       "name": "pixelmon:pp_up",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:pp_max",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "pixelmon:old_rod",
       "buy": 2500,
       "sell": 2500
     },
-	{
+    {
       "name": "pixelmon:good_rod",
       "buy": 25000,
       "sell": 25000
     },
-	{
+    {
       "name": "pixelmon:super_rod",
       "buy": 250000,
       "sell": 250000
@@ -134,7 +134,7 @@
     },
     {
       "name": "pixelmon:premier_ball",
-	  "buy": 250,
+      "buy": 250,
       "sell": 250
     },
     {
@@ -210,27 +210,27 @@
     },
     {
       "name": "pixelmon:max_revive",
-	  "buy": 1200,
+      "buy": 1200,
       "sell": 600
     },
     {
       "name": "pixelmon:ether",
-	  "buy": 500,
+      "buy": 500,
       "sell": 250
     },
     {
       "name": "pixelmon:max_ether",
-	  "buy": 600,
+      "buy": 600,
       "sell": 300
     },
     {
       "name": "pixelmon:elixir",
-	  "buy": 1000,
+      "buy": 1000,
       "sell": 500
     },
     {
       "name": "pixelmon:max_elixir",
-	  "buy": 1400,
+      "buy": 1400,
       "sell": 700
     },
     {
@@ -295,277 +295,277 @@
     },
     {
       "name": "pixelmon:pomeg_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:kelpsy_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:qualot_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:hondew_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:grepa_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:tamato_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:oran_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:rawst_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:leppa_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:cheri_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:chesto_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:pecha_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:aspear_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:persim_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:lum_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:sitrus_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:berry_juice",
-	  "buy": 75,
+      "buy": 75,
       "sell": 75
     },
     {
       "name": "pixelmon:pumkin_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:drash_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:eggant_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:yago_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:touga_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:apicot_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:liechi_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:ganlon_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:salac_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:petaya_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:lansat_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:starf_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:custap_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:aguav_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:figy_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:iapapa_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:mago_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:wiki_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:occa_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:passho_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:wacan_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:rindo_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:yache_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:chople_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:kebia_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:shuca_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:coba_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:payapa_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:tanga_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:charti_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:kasib_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:haban_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:colbur_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:babiri_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:chilan_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:roseli_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:kee_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
       "name": "pixelmon:maranga_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
@@ -670,7 +670,7 @@
       "buy": 40000,
       "sell": 40000
     },
-	{
+    {
       "name": "pixelmon:covered_fossil_2",
       "buy": 40000,
       "sell": 40000
@@ -779,14 +779,14 @@
       "buy": 20000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:exp_all",
       "buy": 60000,
       "sell": 30000
     },
     {
       "name": "pixelmon:choice_band",
-	  "buy": 8000,
+      "buy": 8000,
       "sell": 4000
     },
     {
@@ -1101,7 +1101,7 @@
     },
     {
       "name": "pixelmon:micle_berry",
-	  "buy": 10,
+      "buy": 10,
       "sell": 10
     },
     {
@@ -2274,37 +2274,37 @@
       "buy": 2500,
       "sell": 75
     },
-	{
+    {
       "name": "pixelmon:tm171",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm172",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm173",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm174",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm175",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm176",
       "buy": 12500,
       "sell": 375
     },
-	{
+    {
       "name": "pixelmon:tm177",
       "buy": 12500,
       "sell": 375
@@ -2526,7 +2526,7 @@
       "name": "pixelmon:ranch_upgrade",
       "buy": 8000
     },
-	{
+    {
       "name": "pixelmon:ranch",
       "buy": 4000
     },
@@ -2605,174 +2605,174 @@
     {
       "name": "pixelmon:blastoisinite"
     },
-	{
+    {
       "name": "minecraft:coal",
       "buy": 6,
       "sell": 6
     },
-	{
+    {
       "name": "minecraft:flint",
       "buy": 6,
       "sell": 6
     },
-	{
+    {
       "name": "minecraft:cobblestone",
       "sell": 1
     },
-	{
+    {
       "name": "minecraft:dirt",
       "sell": 1
     },
-	{
+    {
       "name": "minecraft:gravel",
       "sell": 1
     },
-	{
+    {
       "name": "minecraft:redstone",
       "buy": 10,
       "sell": 10
     },
-	{
+    {
       "name": "minecraft:clay_ball",
       "buy": 10,
       "sell": 1
     },
-	{
+    {
       "name": "minecraft:iron_ingot",
       "buy": 16,
       "sell": 16
     },
-	{
+    {
       "name": "pixelmon:aluminium_ingot",
       "buy": 32,
       "sell": 32
     },
-	{
+    {
       "name": "minecraft:gold_ingot",
       "buy": 96,
       "sell": 96
     },
-	{
+    {
       "name": "minecraft:iron_shovel",
       "buy": 8
     },
-	{
+    {
       "name": "minecraft:iron_pickaxe",
       "buy": 10
     },
-	{
+    {
       "name": "minecraft:golden_shovel",
       "buy": 15
     },
-	{
+    {
       "name": "minecraft:diamond_shovel",
       "buy": 25
     },
-	{
+    {
       "name": "minecraft:diamond_pickaxe",
       "buy": 50
     },
-	{
+    {
       "name": "minecraft:diamond_axe",
       "buy": 50
     },
-	{
+    {
       "name": "pixelmon:diamond_hammer",
       "buy": 25
     },
-	{
+    {
       "name": "minecraft:emerald",
       "buy": 260,
       "sell": 260
     },
-	{
+    {
       "name": "minecraft:diamond",
       "buy": 156,
       "sell": 156
     },
-	{
+    {
       "name": "minecraft:quartz",
       "buy": 36,
-	  "sell": 4
+      "sell": 4
     },
-	{
+    {
       "name": "minecraft:glowstone_dust",
       "buy": 36,
-	  "sell": 4
+      "sell": 4
     },
-	{
+    {
       "name": "pixelmon:sapphire",
       "buy": 196,
       "sell": 196
     },
-	{
+    {
       "name": "pixelmon:ruby",
       "buy": 196,
       "sell": 196
     },
-	{
+    {
       "name": "pixelmon:amethyst",
       "buy": 196,
       "sell": 196
     },
-	{
+    {
       "name": "pixelmon:crystal",
       "buy": 196,
       "sell": 196
     },
-	{
+    {
       "name": "minecraft:obsidian",
       "buy": 52
     },
-	{
+    {
       "name": "minecraft:ice",
       "buy": 90
     },
-	{
+    {
       "name": "minecraft:packed_ice",
       "buy": 135
     },
-	{
+    {
       "name": "minecraft:dispenser",
       "buy": 135
     },
-	{
+    {
       "name": "minecraft:red_mushroom_block",
       "buy": 135
     },
-	{
+    {
       "name": "minecraft:sea_lantern",
       "buy": 135,
-	  "sell": 135
+      "sell": 135
     },
-	{
+    {
       "name": "minecraft:netherrack",
       "buy": 135,
-	  "sell": 135
+      "sell": 135
     },
-	{
+    {
       "name": "minecraft:cake",
       "buy": 135,
-	  "sell": 135
+      "sell": 135
     },
-	{
+    {
       "name": "pixelmon:silicon",
       "buy": 36,
       "sell": 36
     },
-	{
+    {
       "name": "minecraft:soul_sand",
       "buy": 36
     },
-	{
+    {
       "name": "minecraft:end_stone",
       "buy": 135
     },
-	{
+    {
       "name": "enderio:block_enderman_skull",
       "buy": 100000
     },
-	{
+    {
       "name": "pixelmon:soothe_bell",
       "buy": 2000,
       "sell": 1000
@@ -2782,17 +2782,17 @@
       "buy": 1000,
       "sell": 500
     },
-	{
+    {
       "name": "pixelmon:dubious_disc",
       "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "pixelmon:up-grade",
       "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "pixelmon:electirizer",
       "buy": 8000,
       "sell": 4000
@@ -2802,808 +2802,815 @@
       "buy": 8000,
       "sell": 4000
     },
-	{
+    {
       "name": "pixelmon:protector",
       "buy": 8000,
       "sell": 4000
     },
-	{
+    {
       "name": "pixelmon:dragon_scale",
       "buy": 8000,
       "sell": 4000
     },
-	{
+    {
       "name": "pixelmon:oval_stone",
       "buy": 4000,
       "sell": 2000
     },
-	{
+    {
       "name": "pixelmon:reaper_cloth",
       "buy": 4000,
       "sell": 2000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_pikachu",
       "buy": 9000,
       "sell": 9000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_jigglypuff",
       "buy": 9000,
       "sell": 9000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_meowth",
       "buy": 9000,
       "sell": 9000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_blastoise",
       "buy": 18000,
       "sell": 18000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_charizard",
       "buy": 18000,
       "sell": 18000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_venusaur",
       "buy": 18000,
       "sell": 18000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_lapras",
       "buy": 18000,
       "sell": 18000
     },
-	{
+    {
       "name": "pixelmon:pokedoll_snorlax",
       "buy": 18000,
       "sell": 18000
     },
-	{
+    {
       "name": "pixelmon:tapunium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:solganium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:snorlium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:primarium_Z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:pikashunium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:pikanium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:mimikium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:mewnium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:marshadium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:lycanium_Z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:lunalium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:kommonium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:incinium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:eevium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:decidium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "pixelmon:aloraichium_z",
       "buy": 10000,
       "sell": 10000
     },
-	{
+    {
       "name": "minecraft:dragon_egg",
       "buy": 20000,
       "sell": 20000
     },
-	{
+    {
       "name": "minecraft:nether_star",
       "buy": 20000,
       "sell": 20000
     },
-	{
+    {
       "name": "pixelmon:sun_flute",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "pixelmon:moon_flute",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "pixelmon:griseous_orb",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "pixelmon:adamant_orb",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "pixelmon:lustrous_orb",
       "buy": 30000,
       "sell": 30000
     },
-	{
+    {
       "name": "minecraft:totem_of_undying",
       "buy": 15000,
       "sell": 15000
     },
-	{
+    {
       "name": "minecraft:skull:1",
       "buy": 15000,
       "sell": 15000
     },
-	{
+    {
       "name": "pixelmon:skull_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:skull_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:skull_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:skull_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:flare_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:flare_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:flare_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:flare_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:plasma_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:plasma_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:plasma_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:plasma_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:neo_plasma_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:neo_plasma_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:neo_plasma_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:neo_plasma_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:ruby_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:ruby_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:ruby_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:ruby_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:sapphire_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:sapphire_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:sapphire_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:sapphire_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:galactic_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:galactic_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:galactic_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:galactic_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:aether_helm",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:aether_plate",
       "buy": 5000,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:aether_legs",
       "buy": 3500,
       "sell": 35
     },
-	{
+    {
       "name": "pixelmon:aether_boots",
       "buy": 2500,
       "sell": 25
     },
-	{
+    {
       "name": "pixelmon:camera",
       "buy": 10000,
       "sell": 100
     },
-	{
+    {
       "name": "pixelmon:film",
       "buy": 500,
       "sell": 10
     },
-	{
+    {
       "name": "pixelmon:painting",
       "buy": 1000,
       "sell": 10
     },
-	{ 
-	  "id": "BoneMeal",
+    {
+      "id": "BoneMeal",
       "name": "minecraft:dye",
-	  "itemData": 15,
+      "itemData": 15,
       "buy": 50,
       "sell": 15
     },
-	{
+    {
       "name": "pixelmon:green_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:red_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:yellow_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:blue_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:purple_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:orange_bike",
       "buy": 6000,
       "sell": 200
     },
-	{
+    {
       "name": "pixelmon:xs_candy",
       "buy": 100,
       "sell": 50
     },
-	{
+    {
       "name": "pixelmon:s_candy",
       "buy": 800,
       "sell": 400
     },
-	{
+    {
       "name": "pixelmon:m_candy",
       "buy": 3000,
       "sell": 1500
     },
-	{
+    {
       "name": "pixelmon:l_candy",
       "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "pixelmon:xl_candy",
       "buy": 30000,
       "sell": 15000
     },
-	{
+    {
       "name": "pixelmon:rare_candy",
       "buy": 20000,
       "sell": 20000
     },
-	{
+    {
       "name": "pixelmon:n_solarizer",
-	  "buy": 50000,
+      "buy": 50000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:zygarde_cube",
-	  "buy": 35000,
+      "buy": 35000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:zygardemachine",
-	  "buy": 65000,
+      "buy": 65000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:fossil_machine",
-	  "buy": 45000,
+      "buy": 45000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:fossil_cleaner",
-	  "buy": 45000,
+      "buy": 45000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:burn_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:chill_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:douse_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:shock_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:bug_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:dark_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:dragon_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:electric_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:fighting_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:fire_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:flying_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:ghost_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:grass_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:ground_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:ice_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:poison_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:psychic_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:rock_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:steel_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:water_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "pixelmon:fairy_memory_drive",
-	  "buy": 25000,
+      "buy": 25000,
       "sell": 250
     },
-	{
+    {
       "name": "minecraft:shulker_shell",
-	  "buy": 2000,
+      "buy": 2000,
       "sell": 2000
     },
-	{ 
-	  "id": "StainedClay",
+    {
+      "id": "StainedClay",
       "name": "minecraft:stained_hardened_clay",
-	  "itemData": 12,
+      "itemData": 12,
       "buy": 135,
       "sell": 135
     },
-	{ 
-	  "id": "StoneBrick",
+    {
+      "id": "StoneBrick",
       "name": "minecraft:stonebrick",
-	  "itemData": 0,
+      "itemData": 0,
       "buy": 135,
       "sell": 135
     },
-	{
+    {
       "name": "solarflux:solar_panel_1",
-	  "buy": 10000,
+      "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "solarflux:solar_panel_2",
-	  "buy": 80000,
+      "buy": 80000,
       "sell": 40000
     },
-	{
+    {
       "name": "solarflux:solar_panel_3",
-	  "buy": 320000,
+      "buy": 320000,
       "sell": 160000
     },
-	{
+    {
       "name": "solarflux:solar_panel_4",
-	  "buy": 1120000,
+      "buy": 1120000,
       "sell": 560000
     },
-	{
+    {
       "name": "solarflux:solar_panel_5",
-	  "buy": 3360000,
+      "buy": 3360000,
       "sell": 1680000
     },
-	{
+    {
       "name": "solarflux:solar_panel_6",
-	  "buy": 8400000,
+      "buy": 8400000,
       "sell": 4200000
     },
-	{
+    {
       "name": "solarflux:solar_panel_7",
       "sell": 16800000
     },
-	{
+    {
       "name": "solarflux:solar_panel_8",
-	  "sell": 67200000
+      "sell": 67200000
     },
-	{
+    {
       "name": "solarflux:capacity_upgrade",
-	  "buy": 10000,
+      "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "solarflux:efficiency_upgrade",
-	  "buy": 10000,
+      "buy": 10000,
       "sell": 5000
     },
-	{
+    {
       "name": "solarflux:transfer_rate_upgrade",
-	  "buy": 10000,
+      "buy": 10000,
       "sell": 5000
     },
-	{ 
-	  "id": "EnergyConduit",
+    {
+      "id": "EnergyConduit",
       "name": "enderio:item_power_conduit",
-	  "itemData": 0,
+      "itemData": 0,
       "buy": 640,
       "sell": 320
     },
-	{ 
-	  "id": "EnhancedEnergyConduit",
+    {
+      "id": "EnhancedEnergyConduit",
       "name": "enderio:item_power_conduit",
-	  "itemData": 1,
+      "itemData": 1,
       "buy": 5120,
       "sell": 2560
     },
-	{ 
-	  "id": "EnderEnergyConduit",
+    {
+      "id": "EnderEnergyConduit",
       "name": "enderio:item_power_conduit",
-	  "itemData": 2,
+      "itemData": 2,
       "buy": 20480,
       "sell": 10240
     },
-	{ 
-	  "id": "LapisLazuli",
+    {
+      "id": "LapisLazuli",
       "name": "minecraft:dye",
-	  "itemData": 4,
+      "itemData": 4,
       "buy": 100,
       "sell": 50
     },
-	{
+    {
       "name": "enderio:item_item_conduit",
-	  "buy": 640,
+      "buy": 640,
       "sell": 320
     },
-	{ 
-	  "id": "CertusQuartzCrystal",
+    {
+      "id": "CertusQuartzCrystal",
       "name": "appliedenergistics2:material",
-	  "itemData": 0,
+      "itemData": 0,
       "buy": 156,
       "sell": 156
     },
-	{ 
-	  "id": "ChargedCertusQuartzCrystal",
+    {
+      "id": "ChargedCertusQuartzCrystal",
       "name": "appliedenergistics2:material",
-	  "itemData": 1,
+      "itemData": 1,
       "buy": 312,
       "sell": 312
     },
-	{ 
-	  "id": "Singularity",
+    {
+      "id": "Singularity",
       "name": "appliedenergistics2:material",
-	  "itemData": 47,
+      "itemData": 47,
       "buy": 1000,
       "sell": 1000
     },
-	{
+    {
       "name": "minecraft:slime_ball",
-	  "buy": 250,
+      "buy": 250,
       "sell": 250
     },
-	{
+    {
       "name": "minecraft:clay",
-	  "buy": 50,
+      "buy": 50,
       "sell": 50
     },
-	{
+    {
       "name": "minecraft:bone",
-	  "buy": 20,
+      "buy": 20,
       "sell": 20
     },
-	{
+    {
       "name": "minecraft:ender_pearl",
-	  "buy": 40,
+      "buy": 40,
       "sell": 40
     },
-	{
+    {
       "name": "minecraft:blaze_rod",
-	  "buy": 40,
+      "buy": 40,
       "sell": 40
     },
-	{
+    {
       "name": "minecraft:ghast_tear",
-	  "buy": 40,
+      "buy": 40,
       "sell": 40
     },
-    { 
-	  "id": "InkSac",
+    {
+      "id": "InkSac",
       "name": "minecraft:dye",
       "buy": 100,
       "sell": 50
     },
-    { 
-	  "id": "GrayDye",
+    {
+      "id": "GrayDye",
       "name": "minecraft:dye",
-	  "itemData": 8,
+      "itemData": 8,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "LightGrayDye",
+    {
+      "id": "LightGrayDye",
       "name": "minecraft:dye",
-	  "itemData": 7,
+      "itemData": 7,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "PurpleDye",
+    {
+      "id": "PurpleDye",
       "name": "minecraft:dye",
-	  "itemData": 5,
+      "itemData": 5,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "CyanDye",
+    {
+      "id": "CyanDye",
       "name": "minecraft:dye",
-	  "itemData": 6,
+      "itemData": 6,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "LightBlueDye",
+    {
+      "id": "LightBlueDye",
       "name": "minecraft:dye",
-	  "itemData": 12,
+      "itemData": 12,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "CactusGreen",
+    {
+      "id": "CactusGreen",
       "name": "minecraft:dye",
-	  "itemData": 2,
+      "itemData": 2,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "LimeDye",
+    {
+      "id": "LimeDye",
       "name": "minecraft:dye",
-	  "itemData": 10,
+      "itemData": 10,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "DandelionYellow",
+    {
+      "id": "DandelionYellow",
       "name": "minecraft:dye",
-	  "itemData": 11,
+      "itemData": 11,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "PinkDye",
+    {
+      "id": "PinkDye",
       "name": "minecraft:dye",
-	  "itemData": 9,
+      "itemData": 9,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "OrangeDye",
+    {
+      "id": "OrangeDye",
       "name": "minecraft:dye",
-	  "itemData": 6,
+      "itemData": 6,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "RoseRed",
+    {
+      "id": "RoseRed",
       "name": "minecraft:dye",
-	  "itemData": 1,
+      "itemData": 1,
       "buy": 10,
       "sell": 1
     },
-    { 
-	  "id": "CocoBeans",
+    {
+      "id": "CocoBeans",
       "name": "minecraft:dye",
-	  "itemData": 3,
+      "itemData": 3,
       "buy": 100,
       "sell": 10
+    },
+    {
+      "id": "WhiteWool",
+      "name": "minecraft:wool",
+      "itemData": 0,
+      "buy": 135,
+      "sell": 67
     }
   ]
 } 
