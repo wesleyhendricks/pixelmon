@@ -5,7 +5,7 @@
       "minLevel": 70,
       "maxLevel": 70,
       "typeID": "pokemon",
-      "rarity": 8,
+      "rarity": 5,
       "interval": "legendary",
       "spec": {
         "name": "Ho-Oh",
@@ -19,7 +19,13 @@
           "DAY"
         ],
         "stringBiomes": [
-          "minecraft:mutated_mesa"
+          "minecraft:mesa",
+          "minecraft:mesa_rock",
+          "minecraft:mesa_clear_rock",
+          "minecraft:mutated_desert",
+          "minecraft:mutated_mesa",
+          "minecraft:mutated_mesa_rock",
+          "minecraft:mesa_clear_rock"
         ]
       }
     }

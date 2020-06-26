@@ -5,7 +5,7 @@
       "minLevel": 36,
       "maxLevel": 50,
       "typeID": "pokemon",
-      "rarity": 5,
+      "rarity": 8,
       "spec": {
         "name": "Infernape",
         "form": 0

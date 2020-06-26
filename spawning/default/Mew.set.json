@@ -5,7 +5,7 @@
       "minLevel": 50,
       "maxLevel": 50,
       "typeID": "pokemon",
-      "rarity": 5,
+      "rarity": 7,
       "interval": "legendary",
       "spec": {
         "name": "Mew",
