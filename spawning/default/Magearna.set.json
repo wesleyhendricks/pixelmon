@@ -19,7 +19,8 @@
           "DAY"
         ],
         "stringBiomes": [
-          "minecraft:mutated_forest"
+          "minecraft:mutated_forest",
+          "minecraft:forest"
         ]
       }
     }
