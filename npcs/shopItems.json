@@ -3616,6 +3616,101 @@
       "itemData": 0,
       "buy": 135,
       "sell": 67
+    },
+    {
+      "name": "pixelmon:buginium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:darkinium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:dragonium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:electrium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:fairium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:fightinium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:firium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:flyinium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:ghostium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:buginium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:grassium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:groundium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:icium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:normalium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:poisonium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:psychium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:rockium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:steelium_z",
+      "buy": 8000,
+      "sell": 8000
+    },
+    {
+      "name": "pixelmon:waterium_z",
+      "buy": 8000,
+      "sell": 8000
     }
   ]
 } 
