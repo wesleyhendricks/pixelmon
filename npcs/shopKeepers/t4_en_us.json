@@ -20,8 +20,80 @@
   ],
   "items": [
 	{
-      "name": "pixelmon:covered_fossil_0",
-	  "variation": false
+      "name": "pixelmon:buginium_z",
+      "variation": false
     },
+	{
+      "name": "pixelmon:darkinium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:dragonium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:electrium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:fairium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:fightinium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:firium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:flyinium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:ghostium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:buginium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:grassium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:groundium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:icium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:normalium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:poisonium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:psychium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:rockium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:steelium_z",
+      "variation": false
+    },
+	{
+      "name": "pixelmon:waterium_z",
+      "variation": false
+    }
   ]
 }
