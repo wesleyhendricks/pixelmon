@@ -19,101 +19,105 @@
     }
   ],
   "items": [
-	{
+    {
       "name": "pixelmon:n_solarizer",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
+      "name": "pixelmon:n_lunarizer",
+      "variation": false
+    },
+    {
       "name": "pixelmon:zygarde_cube",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:zygardemachine",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:burn_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:chill_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:douse_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:shock_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:bug_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:dark_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:dragon_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:electric_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:fighting_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:fire_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:flying_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:ghost_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:grass_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:ground_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:ice_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:poison_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:psychic_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:rock_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:steel_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:water_memory_drive",
-	  "variation": false
+      "variation": false
     },
-	{
+    {
       "name": "pixelmon:fairy_memory_drive",
-	  "variation": false
+      "variation": false
     }
   ]
 }
