@@ -4,12 +4,24 @@
   },
   "textures": [
     {
-      "name": "none.png"
+      "name": "shopman2.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
     }
   ],
   "names": [
     {
-      "name": "Name Goes Here"
+      "name": "Z Guy"
     }
   ],
   "chat": [
