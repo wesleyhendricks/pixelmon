@@ -28,6 +28,10 @@
 	  "variation": false
     },
 	{
+      "name": "minecraft:flint",
+	  "variation": false
+    },
+	{
       "name": "minecraft:redstone",
 	  "variation": false
     },
