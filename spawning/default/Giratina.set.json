@@ -6,7 +6,7 @@
       "maxLevel": 70,
       "typeID": "pokemon",
       "interval": "legendary",
-      "rarity": 11,
+      "rarity": 14,
       "spec": {
         "name": "Giratina",
         "form": 0

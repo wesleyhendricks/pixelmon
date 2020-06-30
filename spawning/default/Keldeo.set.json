@@ -5,7 +5,7 @@
       "minLevel": 50,
       "maxLevel": 50,
       "typeID": "pokemon",
-      "rarity": 8,
+      "rarity": 12,
       "interval": "legendary",
       "spec": {
         "name": "Keldeo",
